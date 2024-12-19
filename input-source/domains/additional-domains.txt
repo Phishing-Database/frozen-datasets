@@ -283,6 +283,8 @@ eager-pare.95-181-157-141.plesk.page
 easytogets.com
 ebeyez.com
 ecovida.ru
+electrum.la
+elektrum.sbs
 eloquent-lumiere.34-125-197-109.plesk.page
 englishplusmore.com
 enlist-altlayer.pages.dev
@@ -882,6 +884,7 @@ uswsin.xyz
 uswuys.xyz
 uswuzm.xyz
 utpkz.com
+v2-electrum.com
 vaccine-coronavirus.com
 vahlallha.duckdns.org
 valoxino.com
@@ -907,6 +910,7 @@ wasabiwallet.sh
 wasabiwallet.uk
 water-opaque-expert.glitch.me
 we3bwebma1l-r0unclcube-web3nail-nailweb-deliv3ry.glitch.me
+web3-electrum.com
 web3-manta.pages.dev
 webaqunarmail.pages.dev
 web-fix.pages.dev
@@ -1002,6 +1006,7 @@ xn--gmai-88b.com
 xn--ithub-qmc.com
 xn--ooe-8tbc2c.com
 xn--www-ofus-touch-j1b.com
+xss.ls
 yanisac.com
 yildirim-firsati.store
 yildirim-firsati.xyz
