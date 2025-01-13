@@ -2241,6 +2241,7 @@ paperhander.pages.dev
 paperhands-portfoliotracker-wallet.pages.dev
 papycha-quetes.fr
 papychat.com
+papychat-quete.site
 parceltrack-help.top
 partaususd.ru
 pastratas.ac.ug
