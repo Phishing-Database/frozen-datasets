@@ -2330,6 +2330,7 @@ covid19x.solutions
 covideo.ru
 covidquarantine.com
 cpanel01wh.bkk1.cloud.z.com
+cpth-aprv.com
 craigbrimm.com
 cranky-kalam.34-125-197-109.plesk.page
 crazy-pare.34-125-197-109.plesk.page
@@ -3481,6 +3482,7 @@ uni-swap-protocols.pages.dev
 unity-ladder.com
 unity-quete.com
 unity-succes.com
+unity-succes.fr
 univer-dofus.com
 upbeat-elion.34-125-197-109.plesk.page
 update345.pages.dev
@@ -3668,6 +3670,7 @@ woow-seguro-de-viajes.pages.dev
 wordbracer.shop
 wordmover.shop
 wordstaker.shop
+workmyweb.ro
 workshopauthor.com
 workshopsmaker.com
 workshopstyle.com
