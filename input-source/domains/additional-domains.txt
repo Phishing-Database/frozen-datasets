@@ -41,6 +41,7 @@ accbing.com
 accept-altlayer.pages.dev
 accounts-mail.ru
 actionagainstcovid19.com
+additions/permanent/domains.wildcard.listadditions/permanent/domains.list
 admin-ery.pages.dev
 adobebeiownwkjngrjwkenfjkewnf.pythonanywhere.com
 adobe-jhhkwjrnfjadenfrskbgjlsnfgjdfn.pages.dev
