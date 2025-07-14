@@ -1,5 +1,12 @@
-falsepositives/permanent/domains.rzdb.list
-frau-z-macht-das.de
-# string plus all possible TLD.
-# This list will tell the system to explicitly check for the given
-vodafone.de
+#
+.airtable.com
+.amazon.com
+# Everything listed here will be automatically prefixed with the 'ALL' flag.
+.exo.io
+.flk-ipfs.xyz
+.formaloo.net
+.github.com
+# Please do not add any other flag to the domains listed here.
+# Tool & Specification: https://github.com/funilrys/givilsta/blob/master/README.md
+.walletconnect.network
+.wwf.org.hk

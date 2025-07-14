@@ -41,7 +41,6 @@ accbing.com
 accept-altlayer.pages.dev
 accounts-mail.ru
 actionagainstcovid19.com
-additions/permanent/domains.wildcard.listadditions/permanent/domains.list
 admin-ery.pages.dev
 adobebeiownwkjngrjwkenfjkewnf.pythonanywhere.com
 adobe-jhhkwjrnfjadenfrskbgjlsnfgjdfn.pages.dev
@@ -78,6 +77,7 @@ amarveergroup.com
 amazing-poitras.34-125-197-109.plesk.page
 amazonaiy.co
 amelcarte.com
+amende-enligne-qc.com
 amende-stationnement-suivis.com
 anesthwtcm.run
 anjpvv.top
@@ -143,6 +143,7 @@ biswap.org-earn.net
 bitcoin-core.app
 bitdeg.com
 bitfiye.net
+bitflyerapp.com
 bitflyer-global.com
 bitflyer-ja.free.nf
 bitflyer.sviluppo.host
@@ -2444,6 +2445,7 @@ descargarkmspico.org
 detiktotocakep.com
 deusdoolimpo.com
 devblog-dofus.com
+devblog-quetes.online
 dexsceerner.net
 dexscreener-home.net
 dfsfger.xyz
@@ -2475,6 +2477,7 @@ dofuspounlesnoobs.com
 dofuspourlenoobs.com
 dofuspourlenoobs.fr
 dofuspourlesnoobs.fr
+dofuspourlesrnoobs.com
 dofusprourlesnoobs.com
 dofustouch.fr
 dogalmedical.org
@@ -2721,6 +2724,7 @@ ff-exchange.net
 fichiersclients.myphotos.cc
 finance-superchain.net
 firengav.xyz
+fish-lane.com
 fitokuzigijot.weebly.com
 fixedfloat.biz
 fjwamneg.top
@@ -2732,7 +2736,6 @@ floridavacationrentalsbyowners.com
 flow-ballet.my
 flowerexju.bet
 flutter-covid19.firebaseio.com
-flyairprestige.com
 f-movie.org
 fmovies2.site
 fmovies4.org
@@ -2869,16 +2872,6 @@ hoster-test.ru
 hotelsochipark.ru
 hovafmd.ddns.net
 hq-office.us
-http://usps.com-trackaal.top/us/
-http://usps.com-trackcqi.top/us/
-http://usps.com-tracknpt.top/us/
-http://usps.com-trackphy.top/us/
-http://usps.com-trackpro.top/us/
-http://usps.com-trackrip.top/us/
-http://usps.com-tracksqf.top/us/
-http://usps.com-trackvtk.top/us/
-http://usps.com-trackyqn.top/us/
-http://usps.com-trackysb.top/us/
 htx-login.com
 htx-login.su
 huanyu3333.com
@@ -3273,6 +3266,7 @@ phanltonn.pro
 phanton.cc
 phatnomn.app
 phsw.site
+pish-lane.com
 pizza-beckermems.com
 playwell.ug
 plesk.page
@@ -3385,6 +3379,7 @@ rabby.ws
 raby.app
 race2zerogolf.za.com
 ragimost.xyz
+raiolanetworks.wpenginepowered.com
 raydiume.io
 raydium.io-sol.org
 raydiumx.org
@@ -3396,6 +3391,7 @@ reagan-webmail-102298.weeblysite.com
 receive-altlayerio.pages.dev
 receive-dymension.com
 reclaim-bittrex.com
+recompenses-dofus.com
 recursing-perlman.45-156-26-247.plesk.page
 redunexodozik.weebly.com
 registry-linea.pages.dev
@@ -3838,7 +3834,6 @@ ushfym.xyz
 ushwu.xyz
 usop.sobwykro.top
 uspsaka.vip
-uspsaka.vip 
 uspsake.vip
 uspsakf.vip
 uspsaki.vip
@@ -3847,7 +3842,6 @@ uspsakx.vip
 usps-bab.shop
 usps.com-rutyypupls.top
 usps.com-trackbgw.top
-usps.com-trackbgw.top 
 usps.com-tracking-helpszy.cc
 usps.com-trackyyea.top
 usps.com-ysxke.top
@@ -3913,7 +3907,6 @@ usps-rna.shop
 uspssqa.vip
 uspssqi.vip
 uspssqj.vip
-uspssqj.vip 
 uspssqo.vip
 uspssqu.vip
 uspssqvip
@@ -4136,3 +4129,4 @@ zmedtipp.live
 zttmct-tlemp.web.app
 zt-za.fr
 zxvbcrt.ug
+
