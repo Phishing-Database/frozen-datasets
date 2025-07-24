@@ -99,6 +99,7 @@ app.openecocean.finance
 app.rabbltx.xyz
 app.rndex.xyz
 app-sunswap.github.io
+app.thorrswap.finance
 app.thorswap-v2.xyz
 app-tronscan.github.io
 apsehick.date
@@ -138,6 +139,7 @@ biaxol-supplements.com
 bigbeans.solutions
 bilflyer.web.app
 bill-overdue.net
+biswap.app-2v.com
 biswap.org-earn.net
 bitcoin-core.app
 bitdeg.com
@@ -153,6 +155,7 @@ bkskhcil.top
 bl0ckchain.cc
 blackangel.dev
 blackswmxc.top
+blswap.org
 blueevolution.it
 blurverse.pages.dev
 bmoalto-login.com
@@ -166,6 +169,8 @@ bowigarp.xyz
 bqizimv.ru
 bratiop.ru
 brave-ramanujan.34-125-197-109.plesk.page
+brave-wallet.biz
+brave-wallet.me
 bridge-home.net
 brownelllandcompany.com
 brunotasso.com.br
@@ -191,6 +196,7 @@ cfnl.ca
 chainsrectify.pages.dev
 changely---exchange-hub.webflow.io
 changenow-ex.com
+changenow.ing
 changenow.llc
 changenow.vip
 changenow.ws
@@ -2419,8 +2425,10 @@ dating4free.us
 dating4sex.us
 daxugukixirujin.weebly.com
 dcfuspourlesnoobs.com
+debak-app.com
 debanc.org
 debanksdefi.pages.dev
+debank-us.com
 decentralizationserver.pages.dev
 decentralizedappauth.pages.dev
 decentrausdchartfil.pages.dev
@@ -2518,6 +2526,7 @@ elon2025.net
 eloquent-lumiere.34-125-197-109.plesk.page
 enenterrtc.top
 englishplusmore.com
+en-ledger.io
 enlist-altlayer.pages.dev
 entelhcl.top
 en-trezor.io
@@ -3377,6 +3386,7 @@ qwertasd.ru
 qwerty12346.ru
 rabbitx.pro
 rabbltx.xyz
+rabby-faq.io
 rabby.la
 rabby-vallet.github.io
 rab-bywallet.github.io
@@ -3449,6 +3459,7 @@ rxzxssx.fiduciaracking.com
 s3-poshmark.id829.com
 s925077a.bget.ru
 safecartusa.com
+safepal.com.co
 sampatnvlshwa.com
 sanolaguna.com
 satoshi-364.pages.dev
@@ -3461,6 +3472,7 @@ securesign-rbcroyal.com
 securoscans.com
 sellskin.shop
 serene-shirley.13-93-165-215.plesk.page
+sf-epal.com
 sgp1.digitaloceanspaces.com
 sharp-kowalevski.34-125-197-109.plesk.page
 shiptrace-help.top
@@ -3665,6 +3677,7 @@ the-fmovies.com
 thenoticememoir.pythonanywhere.com
 thetollroads-roads.top
 thirsty-solomon.13-67-133-60.plesk.page
+thor-swap-thorswap.com
 thorswap-v2.xyz
 thor-swap.xyz
 thoughtworkis.com
@@ -3943,15 +3956,19 @@ v2-extrafi.xyz
 v2-jumperexchange.com
 v2-mdex.xyz
 v2-o-p-e-n-s-e-a.com
+v2-thorswap.xyz
 v2-velodrorne.com
+v2-velodrorne.net
 v3-dappradar.com
 v4-biswap.com
 v5-uniswap.info
 vaccine-coronavirus.com
 vahlallha.duckdns.org
 valoxino.com
+ve1odrome.net
 velazqur.store
 velodrome.finance-superchain.net
+velodrome.velo-main.net
 venaetdqfn.run
 verifyandfixdapp.pages.dev
 verify-gosuslugi.ru
@@ -4094,6 +4111,7 @@ www.solscanner.io
 www.spooky-swap.pro
 www.suspicious-wilson.34-125-197-109.plesk.page
 www-thorchain.com
+www.tokenpocktp.com
 www.tronscan.la
 www.trusting-lumiere.34-125-197-109.plesk.page
 www.v2-biswap.pro
@@ -4128,6 +4146,7 @@ youthful-engelbart.34-125-197-109.plesk.page
 zaper.fi
 zc11m.csb.app
 zeddexexchange.live
+z-e-r-i-o-n.com
 zh-trust.com
 zinhice.shop
 zk-manta-airdrop.pages.dev
