@@ -1,12 +1,37 @@
 #
-.airtable.com
-.amazon.com
+airtable.com
+amazon.ae
+amazon.ca
+amazon.cn
+amazon.co.jp
+amazon.com
+amazon.com.au
+amazon.com.be
+amazon.com.br
+amazon.com.cn
+amazon.com.mx
+amazon.com.sg
+amazon.com.tr
+amazon.co.uk
+amazon.co.za
+amazon.de
+amazon.eg
+amazon.es
+amazon.fr
+amazon.in
+amazon.it
+amazon-logistics.com
+amazon.nl
+amazon.pl
+amazon.sa
+amazon.se
+amazon.sg
 # Everything listed here will be automatically prefixed with the 'ALL' flag.
-.exo.io
-.flk-ipfs.xyz
-.formaloo.net
-.github.com
+exo.io
+flk-ipfs.xyz
+formaloo.net
+github.com
 # Please do not add any other flag to the domains listed here.
 # Tool & Specification: https://github.com/funilrys/givilsta/blob/master/README.md
-.walletconnect.network
-.wwf.org.hk
+walletconnect.network
+wwf.org.hk
