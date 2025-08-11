@@ -73,6 +73,10 @@ http://83.222.191.91/oops/Photo.scr
 http://83.222.191.91/oops/selfrep.sh
 http://83.222.191.91/oops/tftpget.sh
 http://87.120.115.240/Downloads/tg.-frumos-hcl-nr.-75-1.pdf.lnk
+http://89.23.103.161:8090/doc/DocumentInfo.pdf.lnk
+http://89.23.103.161:8090/ver/fi.wsf
+http://89.23.103.161:8090/ver/tuts.wsh
+http://89.23.103.161:8090/vog.bat
 http://94.156.167.30/Agent381.msi
 http://94.156.167.30/Agent381.zip
 http://94.156.167.30/config.php
@@ -1172,8 +1176,16 @@ https://en_us_ledgercom_pro.teachable.com/p/home
 https://en-us-ledger-start.teachable.com/p/home
 https://en-us-ledger.teachable.com/p/home
 https://enzanc.net/MaxGI/index2.html
+http://ser-tribune-require-bodies.trycloudflare.com/doc/DocumentInfo.pdf.lnk
+http://ser-tribune-require-bodies.trycloudflare.com/ver/fi.wsf
+http://ser-tribune-require-bodies.trycloudflare.com/ver/tuts.wsh
+http://ser-tribune-require-bodies.trycloudflare.com/vog.bat
 https://es_ledgercom_help_ua.teachable.com/p/home
 https://eucjugpv.vip/us/
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/a.txt
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/b.txt
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/crew.bat
+https://eugene-reuters-subdivision-quarter.trycloudflare.com/zo.zip
 https://events-krosmopack.info/fr/mmorpg/actualites/news/pack-Osavora/
 https://events-krosmopack.pro/fr/mmorpg/actualites/news/1763644-krosmopack-dofus-2025/
 https://events-krosmopack.pro/fr/mmorpg/actualites/news/krosmopack-1107225/
