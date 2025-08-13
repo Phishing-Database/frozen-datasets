@@ -2525,6 +2525,7 @@ doge-electrum.org
 doh-gov.com
 doh-gov.ph
 dolaxabof.xyz
+dollar-bank.net
 dorfuspourlesnoobs.com
 download-binance.online
 dpln-quete.com
@@ -2546,12 +2547,16 @@ educatingourworld.com
 edumnhn.weebly.com
 eftherfi.org
 eiw.efw.mybluehost.me
+elecltrum.org
+electlrum.org
 electrubtc.org
 electrum-bch.net
 electrum.com.vc
 electrum.cx
 electrum.ing
 electrum.la
+electrum.org.es
+electrum.org.nz
 electrum-usdt.com
 electrum-wallet.net
 electrum-xrp.net
@@ -3050,6 +3055,7 @@ kidhnx.xyz
 kidsacademyprayagraj.com
 kiiujsh.xyz
 kind-villani.13-93-165-215.plesk.page
+kjcuu.com
 kkkdocument.weebly.com
 kloisa.shop
 kmsauto.info
