@@ -1,8 +1,4 @@
 #
 # Everything listed here will be automatically prefixed with the 'RZDB' flag.
-frau-z-macht-das.de
 # Please do not add any other flag to the domains listed here.
-# string plus all possible TLD.
-# This list will tell the system to explicitly check for the given
 # Tool & Specification: https://github.com/funilrys/givilsta/blob/master/README.md
-vodafone.de
