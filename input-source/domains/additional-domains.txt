@@ -187,6 +187,7 @@ borsbrietjblrenlgbrlenhjt.pages.dev
 borsbrietjblrenlgbrlenhjt.pythonanywhere.com
 bosslogin.top
 bourse-dofus.com
+bourses-dofus.com
 boutique-dofus.com
 bowigarp.xyz
 bqizimv.ru
