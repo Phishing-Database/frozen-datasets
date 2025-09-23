@@ -2302,6 +2302,7 @@ https://cdn-ledger-en-help.teachable.com/p/home
 https://challangegame.world/
 https://challangeggmode.world/
 https://challengerflex.com/
+https://challengerss.com/
 https://chomatruider.firebaseapp.com/
 http://school8.kvz.kubannet.ru/cli/1ndex.php
 https://cl.ly/18f8fe9933e2/UX1x6L.html
@@ -3730,10 +3731,13 @@ https://storage.googleapis.com/staging.safty-portal-covid20.appspot.com/%252525%
 https://store.communitygamesitem.com/item/AWP-AncientHeritage/ 
 https://store.communitygameteam.com/sharedfiles/filedetails/id=22958664/
 https://store.communitygameuser.com/item/AWP-AncientHeritage/
+https://store.communitygameusers.com/item/AWP-AncientHeritage/
 https://store.communityonlinecharts.com/sharedfiles/filedetails/id=22958664/ 
+https://store.communityuserdev.com/sharedfiles/filedetails/id=22958664/
 https://store.poweredartgame.shop/sharedfiles/filedetails/id=16857445/
 https://store.poweredartgame.shop/sharedfiles/filedetails/id=37895845/
 https://store.poweredteam.shop/sharedfiles/filedetails/id=16857445/
+https://store.powereduser.shop/sharedfiles/filedetails/id=37895845/
 https://store.workshopawardvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://store.workshopawardvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopawardvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
@@ -4869,6 +4873,7 @@ https://www.cases-batle.ru/
 https://www.cases-battle.org.ru/
 https://www.challangegame.world/
 https://www.challengerflex.com/
+https://www.challengerss.com/
 https://www.cybersportsmode.world/
 https://www.devblog-dofus.com/
 https://www.devblog-dofus.com/fr/mmorpg/actualites/recompense/parchemins/succes.php
@@ -4929,11 +4934,14 @@ https://www.spouscshop.trade/linkednew/index.htm
 https://www.store.communitygamesitem.com/item/AWP-AncientHeritage/
 https://www.store.communitygameteam.com/sharedfiles/filedetails/id=22958664/
 https://www.store.communitygameuser.com/item/AWP-AncientHeritage/
+https://www.store.communitygameusers.com/item/AWP-AncientHeritage/
 https://www.store.communityonlinecharts.com/sharedfiles/filedetails/id=22958664/ 
+https://www.store.communityuserdev.com/sharedfiles/filedetails/id=22958664/
 https://www.store.poweredartgame.shop/sharedfiles/filedetails/id=16857445/ 
 https://www.store.poweredartgame.shop/sharedfiles/filedetails/id=37895845/
 https://www.store.poweredteam.shop/sharedfiles/filedetails/id=16857445/
 https://www.store.poweredteam.shop/sharedfiles/filedetails/id=37895845/ 
+https://www.store.powereduser.shop/sharedfiles/filedetails/id=37895845/
 https://www.unity-maj.com/
 https://www.univer-dofus.com/fr/mmorpg/actualites/recompenses/succes.php
 https://wwwv-ankama.com/fr/mmorpg/actualites/news/pack-Osavora/
