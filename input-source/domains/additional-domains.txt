@@ -270,6 +270,7 @@ cfgxgfxf.pages.dev
 cfkyb0.webwave.dev
 cfnl.ca
 chainsrectify.pages.dev
+chairxcomfort.com
 challangegame.world
 challangeggmode.world
 challengerflex.com
@@ -5647,6 +5648,7 @@ workshopsmaker.com
 workshopstyle.com
 workshopusers.com
 workshopvoteaward.com
+workshopvotesaward.com
 worldwidewebshield.info
 w-raydium.com
 wsetransport.com
