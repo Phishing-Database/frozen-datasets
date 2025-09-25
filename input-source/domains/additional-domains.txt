@@ -5656,8 +5656,10 @@ workshop-arts.pro
 workshopauthor.com
 workshopawardvote.com
 workshopcreatorshub.com
+workshopcreatorslab.com
 workshopcreatorsvote.com
 workshop-dota.pro
+workshopmodcreated.com
 workshopmodcreator.com
 workshopmodfiles.com
 workshopmodsreview.com
