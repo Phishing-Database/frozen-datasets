@@ -108,6 +108,7 @@ app.kyberwsap.net
 app-layerzeo.xyz
 applescoins.com
 applesforfred.com
+app-lido-finance-v2.com
 app.metisdata.io
 app.openecocean.finance
 app.orbiterorb.net
@@ -122,6 +123,7 @@ app.sunwsap.net
 app.thorrswap.finance
 app.thorswap-v2.xyz
 app-tronscan.github.io
+app.v2lido.bond
 apsehick.date
 araucahkbm.live
 arbscan.xyz
@@ -5519,6 +5521,7 @@ utah-gov-yq.guru
 utah-gov-yx.life
 utah-gov-zp.life
 utpkz.com
+v2-app-lido-finance.cc
 v2-biswap.pro
 v2-electrum.com
 v2-ether-fi.org
