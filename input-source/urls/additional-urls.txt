@@ -2742,6 +2742,7 @@ https://faceit.league-events.com/
 https://faceit.lobby-51804.pro/
 https://faceit.lobby-51804.pro/invite
 https://faceit.lobbyjoin.pro/lobby
+https://faceit.log-legendscup.com/
 https://faceit.oauth23.com/
 https://faceit.razeflair.com/
 https://faceit.teams-legendscup.com/
@@ -3397,6 +3398,7 @@ https://login.workshopvoteaward.com/openid/login/openidmodecheckid_setup_http3A2
 https://login.workshopvoteaward.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://login.workshopvotesaward.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopvotesaward.com/sharedfiles/filesdetails/bounty_hunters_brim/
+https://log-legendscup.com/
 https://lonehunqpom.life/zpxd
 https://lpadc.asia/hmy7p33n/
 https://magenta.hnetyl.com/at
@@ -3487,6 +3489,7 @@ https://new-exodus-docs.teachable.com/p/home
 https://new-exodusweb.teachable.com/p/home
 https://new-exodus-world.teachable.com/p/home
 https://newkste08db4.s3.amazonaws.com/b67c.html
+https://new.raze-x-leaggue.com/
 https://nicolascoolman.com/es/download/kmspico/
 https://nolvmdf.au.tc/./b/absa/v3/
 https://now-ledger-start-io.teachable.com/p/home
@@ -5003,6 +5006,7 @@ https://www.faceit.cup23.com/cs2/championship/a04c74bb-60aa-437c-aad0-5f58bf717e
 https://www.faceit.en-legendscup.com/
 https://www.faceit.join-legends-cup.com/
 https://www.faceit.join-legendscup.com/
+https://www.faceit.log-legendscup.com/
 https://www.faceit.teams-legendscup.com/
 https://www.faceit-userstatus.com/
 https://www.flrecatcherscs.com/
@@ -5025,6 +5029,7 @@ https://www.kmspico.ws/
 https://www.kraken-unlock.com/
 https://www.league-events.com/
 https://www-ledger-sso.teachable.com/p/home
+https://www.log-legendscup.com/
 https://www.magenta.alaguc.com/at
 https://www.manitowocice.com/Media/Manitowocice/robux1.html
 https://www.megahause.de
@@ -5032,6 +5037,7 @@ https://www.modecchallenger.com/
 https://www.modechallengerss.com/
 https://www.modechallenges.com/
 https://www.modechallengez.com/
+https://www.new.raze-x-leaggue.com/
 https://www.news-dofus.com/fr/mmorpg/event/cadeaux/parchemin/succes.php
 https://www.officialkmspico.com
 https://www.pgsgermany.com/
