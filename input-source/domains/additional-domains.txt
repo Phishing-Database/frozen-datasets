@@ -3002,6 +3002,7 @@ facebooks-copyright.com
 facebooksecure.social-networking.me
 faceitaccounts.com
 faceit-accountverify.com
+faceit-authclub.com
 faceituser.com
 faceit-userstatus.com
 faceit-userverify.com
@@ -4572,6 +4573,7 @@ rtost.duckdns.org
 rubosesizip.weebly.com
 rugisuvo.weebly.com
 rujuzodojavumip.weebly.com
+rustbrute.com
 rustcrux.com
 rustpale.com
 rxcovid.com
@@ -5879,6 +5881,7 @@ youthful-engelbart.34-125-197-109.plesk.page
 zaper.fi
 zavod228.icu
 zavodik11.help
+zavodka842.help
 zc11m.csb.app
 zeddexexchange.live
 z-e-r-i-o-n.com
