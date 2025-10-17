@@ -2099,6 +2099,7 @@ https://authlogs-f818e.web.app/index.html?alt=media&token#
 https://authorize-ledger-cdn.teachable.com/p/home
 https://auths-exodus-en-sso.teachable.com/p/home
 https://auth-start-ledge-us-cdn.teachable.com/p/home
+https://auth.steamtwich.com/08231
 https://autohaus.com.sv/.well-known/zendsdsoskds03212943/DHL-SAZI-AUTO/DHL-SAZI-AUTO/DHL-SAZI-AUTO/dhl/?i=i&0
 https://availability-ledger-cdn.teachable.com/p/home
 https://available-ledger-cdn.teachable.com/p/home
@@ -2789,6 +2790,7 @@ https://faceit.oauth23.com/
 https://faceit.razeflair.com/
 https://faceit.teams-legendscup.com/
 https://faceit.tf2connection.com/
+https://faceit.twich-legendscup.com/
 https://faceit.tw-legendscup.com/
 https://faceituser.com/
 https://faceit-userstatus.com/
@@ -4185,6 +4187,7 @@ https://trunkapar.co.trunkersfit.com/trunkinvapar/365/b6fd3862fce3a50d3b535e25dd
 https://trunkapar.co.trunkersfit.com/trunkinvapar/login.php?email=
 https://trzaeser.42web.io/?i=1
 https://trzur-start-en-us-start.teachable.com/p/home
+https://twich-legendscup.com/
 https://tw-legendscup.com/
 https://u7904673.ct.sendgrid.net/wf/click?upn=hHyPRBXA4hoRoUA9febkAzSr9zKt6lwalwwKMXAhj8g-3D_p9tAftU4ATe-2BD0JmFt6eQCmgth-2BTf3GRouxZ1mjdUXTZZSYeioKZrnPZisydlMK5R-2FnoNfT-2Bd4M3-2F3RJfjvycDLYr6dlOGPVpTVd1yTojvWdrHmJP5565iH-2F507zyDhFKsH4qIz6DzRXwAWJIEjj68RsYZupOENeh3DH8w9D1TC26m58rhHD9zAHuu-2BY1pH67V90CpRxhk6NWWu2THNG-2F-2BLpTRvcrEeDMUC1w15rli896JqGGXqXQRUm-2BvE39sGiFTe0t15GczRHATuVMDhu579CIMxg69huWnNm86pBIFxX4uXpmURsil9vmZZDYyZdnKCp2kKrsZgY-2Fgay6HDWu4pkzYxD3WX4lfaTpnlbIrD2ZbPv7DgtsiX2i9o-2BIhKnduxL1J0wXsNGPd2Nq3iZhpWbBJbDimAEODw9zlsL-2F7o-3D
 https://ublackswmxc.top/bgry
@@ -5217,6 +5220,7 @@ https://www.faceit.join-legends-cup.com/
 https://www.faceit.join-legendscup.com/
 https://www.faceit.log-legendscup.com/
 https://www.faceit.teams-legendscup.com/
+https://www.faceit.twich-legendscup.com/
 https://www.faceit.tw-legendscup.com/
 https://www.faceit-userstatus.com/
 https://www.flrecatcherscs.com/
@@ -5306,6 +5310,7 @@ https://www.store.poweredteam.shop/sharedfiles/filedetails/id=37895845/
 https://www.store.powereduserart.shop/sharedfiles/filedetails/id=37895845/
 https://www.store.powereduser.shop/sharedfiles/filedetails/id=37895845/
 https://www.teams-legendscup.com/
+https://www.twich-legendscup.com/
 https://www.tw-legendscup.com/
 https://www.unity-maj.com/
 https://www.univer-dofus.com/fr/mmorpg/actualites/recompenses/succes.php
