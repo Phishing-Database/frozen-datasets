@@ -149,6 +149,7 @@ attconsultant.weebly.com
 att-mail.pages.dev
 ausjcls.xyz
 auth-by-phototan.xyz
+authdiscordconnect.com
 auth-legends-cup.com
 authlogine8s0.top
 authlogine8s1.top
@@ -734,7 +735,9 @@ communitygamesusers.com
 communitygameteam.com
 communitygameuser.com
 communitygameusers.com
+communityitemart.com
 communityitemshop.com
+communitymarketgame.com
 communitymarketsdev.com
 communitymarketsdevs.com
 communityonlinecharts.com
@@ -2728,6 +2731,7 @@ doctored.pages.dev
 documents-download-almeida-3d331c.netlify.app
 dodoexchange.live
 dofunspourlesnoobs.com
+dofus-dofus.com
 dofus-events.com
 dofusevents.com
 dofus-fr.com
@@ -3145,6 +3149,7 @@ foreverfarley.com
 fovokutiro.weebly.com
 fozaronu.weebly.com
 fq703w52zt.pages.dev
+fragduels.com
 frame-6i5.pages.dev
 framecom.pages.dev
 framezap.pages.dev
@@ -4163,6 +4168,7 @@ poweredartstyle.shop
 poweredartuser.shop
 poweredgamebuild.shop
 poweredgamedev.shop
+powereditemart.shop
 powereditem.shop
 poweredteam.shop
 powereduserart.shop
@@ -4179,6 +4185,7 @@ processhol.sbs
 proclutch.pro
 prodhlp.cc
 profile-marketbids.com
+proplay-cup.pro
 proxysync.pages.dev
 psicmaggiecorona.com
 psotsa.cc
@@ -5845,6 +5852,7 @@ workshopcreatorshub.com
 workshopcreatorslab.com
 workshopcreatorsvote.com
 workshop-dota.pro
+workshopitemsvote.com
 workshopmodcreated.com
 workshopmodcreator.com
 workshopmodfiles.com

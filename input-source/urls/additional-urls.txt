@@ -2773,6 +2773,7 @@ https://faceit-accountverify.com/
 https://faceit-accountverify.com/game/?game=leagues5v5&skill_level=all&game_type_2=5vs5&source=faceit
 https://faceit-authclub.com/
 https://faceit-authclub.com/game/?game=leagues5v5&skill_level=all&game_type_2=5vs5&source=faceit
+https://faceit.authdiscordconnect.com/
 https://faceit.auth-legends-cup.com/
 https://faceit.connect-discord.com/
 https://faceit.cup23.com/cs2/championship/a04c74bb-60aa-437c-aad0-5f58bf717ed6/overview/
@@ -2834,6 +2835,7 @@ https://fl.sunpashlgd.cfd/info/
 https://fl.sunpashlgp.cfd/info/
 https://fl.sunpashlgs.cfd/info/
 https://foreverfarley.com/M08yODZmOEwyZDBxOXA=
+https://fragduels.com/
 https://gamechallange.com/
 https://gamermode.world/
 https://gameschallenger.com/
@@ -3430,6 +3432,7 @@ https://login.workshopcreatorslab.com/sharedfiles/filesdetails/aug_poseidon/
 https://login.workshopcreatorsvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopcreatorsvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://login.workshopcreatorsvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
+https://login.workshopitemsvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodcreated.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodcreated.com/sharedfiles/filesdetails/aug_poseidon/
 https://login.workshopmodcreator.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
@@ -3730,6 +3733,8 @@ https://pro.eslplayers25.com/
 https://profiletradepro.com/ZypZ3B9smEU/kraken/2a012361-9b63-40cc-8b60-1d1a9029bf18/okeNn8Os4QHSPWejF/2a012361-9b63-40cc-8b60-1d1a9029bf18
 https://pro-ledger.teachable.com/p/home
 https://pro-ledger-us-en-help.teachable.com/p/home
+https://proplay-cup.pro/
+https://proplay-cup.pro/9nxax8lsxz46.html
 https://pub-5777c77f32f447619bfd23c7b9521d05.r2.dev/original%20wetransfer.html#
 https://pubgermanseries.com/
 https://pubglobalseries.com/
@@ -4002,7 +4007,9 @@ https://store.communitygamesitem.com/item/AWP-AncientHeritage/
 https://store.communitygameteam.com/sharedfiles/filedetails/id=22958664/
 https://store.communitygameuser.com/item/AWP-AncientHeritage/
 https://store.communitygameusers.com/item/AWP-AncientHeritage/
+https://store.communityitemart.com/sharedfiles/filedetails/id=22958664/
 https://store.communityitemshop.com/item/AWP-AncientHeritage/
+https://store.communitymarketgame.com/item/AWP-AncientHeritage/
 https://store.communitymarketsdev.com/item/AWP-AncientHeritage/
 https://store.communitymarketsdevs.com/item/AWP-AncientHeritage/
 https://store.communityonlinecharts.com/sharedfiles/filedetails/id=22958664/ 
@@ -4015,6 +4022,7 @@ https://store.poweredartonline.shop/sharedfiles/filedetails/id=16857445/
 https://store.poweredartstyle.shop/sharedfiles/filedetails/id=37895845/
 https://store.poweredgamebuild.shop/sharedfiles/filedetails/id=16857445/
 https://store.poweredgamedev.shop/sharedfiles/filedetails/id=37895845/
+https://store.powereditemart.shop/sharedfiles/filedetails/id=37895845/
 https://store.powereditem.shop/sharedfiles/filedetails/id=37895845/
 https://store.poweredteam.shop/sharedfiles/filedetails/id=16857445/
 https://store.powereduserart.shop/sharedfiles/filedetails/id=37895845/
@@ -4031,6 +4039,8 @@ https://store.workshopcreatorslab.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcreatorsvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://store.workshopcreatorsvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcreatorsvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
+https://store.workshopitemsvote.com/sharedfiles/filesdetails/aug_poseidon/
+https://store.workshopitemsvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopmodcreated.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://store.workshopmodcreated.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopmodcreator.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
@@ -5219,6 +5229,7 @@ https://www.discordseasonscs.com/
 https://www.dofunspourlesnoobs.com/contents/
 https://www.dofunspourlesnoobs.com/go/
 https://wwwdofus.com/fr/mmorpg/actualites/news/anomalie-12242/inscrip.php
+https://www.dofus-dofus.com/fr/mmorpg/actualites/recompense/parchemins/succes
 https://www.dofus-fr.com/
 https://www.dofus-fr.com/fr/
 https://www.dofus-fr.com/fr/mmorpg/actualites/recompenses/parchemin/succes
@@ -5308,7 +5319,9 @@ https://www.store.communitygamesitem.com/item/AWP-AncientHeritage/
 https://www.store.communitygameteam.com/sharedfiles/filedetails/id=22958664/
 https://www.store.communitygameuser.com/item/AWP-AncientHeritage/
 https://www.store.communitygameusers.com/item/AWP-AncientHeritage/
+https://www.store.communityitemart.com/sharedfiles/filedetails/id=22958664/
 https://www.store.communityitemshop.com/item/AWP-AncientHeritage/
+https://www.store.communitymarketgame.com/item/AWP-AncientHeritage/
 https://www.store.communitymarketsdev.com/item/AWP-AncientHeritage/
 https://www.store.communitymarketsdevs.com/item/AWP-AncientHeritage/
 https://www.store.communityonlinecharts.com/sharedfiles/filedetails/id=22958664/ 
@@ -5321,6 +5334,7 @@ https://www.store.poweredartonline.shop/sharedfiles/filedetails/id=16857445/
 https://www.store.poweredartstyle.shop/sharedfiles/filedetails/id=37895845/
 https://www.store.poweredgamebuild.shop/sharedfiles/filedetails/id=16857445/
 https://www.store.poweredgamedev.shop/sharedfiles/filedetails/id=37895845/
+https://www.store.powereditemart.shop/sharedfiles/filedetails/id=37895845/
 https://www.store.powereditem.shop/sharedfiles/filedetails/id=37895845/
 https://www.store.poweredteam.shop/sharedfiles/filedetails/id=16857445/
 https://www.store.poweredteam.shop/sharedfiles/filedetails/id=37895845/ 
