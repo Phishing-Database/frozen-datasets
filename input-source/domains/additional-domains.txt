@@ -3070,6 +3070,7 @@ fidelity-register.top
 fidelity-regis.top
 fidelity-timi.top
 fidelity-tim.top
+fight4win.pro
 finance-superchain.net
 findwrock.com
 firengav.xyz
@@ -4722,6 +4723,7 @@ rustframe.net
 rustgear.net
 rustgrind.net
 rustpale.com
+rustrise.net
 rustsnap.net
 ruststat.world
 rustsync.net
@@ -5787,6 +5789,7 @@ water-opaque-expert.glitch.me
 w-atomicwallet.com
 w-bpigift.cc
 w-bpionline.co
+wchallenger.world
 we3bwebma1l-r0unclcube-web3nail-nailweb-deliv3ry.glitch.me
 web3-atomicwallet.com
 web3-electrum.com
