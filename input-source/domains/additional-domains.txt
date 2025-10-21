@@ -291,7 +291,9 @@ chainsrectify.pages.dev
 chairxcomfort.com
 challangegame.world
 challangeggmode.world
+challengegg.world
 challengehub.world
+challengerez.world
 challengerflex.com
 challengergg.world
 challengerhub.world
@@ -3998,6 +4000,7 @@ new-manta.pages.dev
 news-dofus.com
 newvity.com
 newwork-6oy.pages.dev
+nextlevel-cup.pro
 nfocofh.top
 nfogbzr.top
 nfoiiej.top
@@ -4228,9 +4231,11 @@ postservice.shop
 postso.cc
 potsa.cc
 poweredartgame.shop
+poweredartitem.com
 poweredartonline.shop
 poweredartstyle.shop
 poweredartuser.shop
+poweredartwork.shop
 poweredgamebuild.shop
 poweredgamedev.shop
 powereditemart.shop
@@ -5789,6 +5794,7 @@ velodrome.finance-superchain.net
 velodrome.velo-main.net
 venaetdqfn.run
 verefication.com  
+verification2fa.com
 verifications-support.com  
 verifyandfixdapp.pages.dev
 verify-gosuslugi.ru
@@ -5846,6 +5852,7 @@ web-orbliter.fi
 webrocketpool.com
 web-simpleswap.com
 web-yearnfinance.com
+wechallengers.world
 welkusters.com
 wellplayed.ug
 westernautomobileassembly.com
@@ -5920,6 +5927,7 @@ workshopawardvotes.com
 workshopcreatorshub.com
 workshopcreatorslab.com
 workshopcreatorsvote.com
+workshopcustomvote.com
 workshop-dota.pro
 workshopitemsvote.com
 workshopmodcreated.com
