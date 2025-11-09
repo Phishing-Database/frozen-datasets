@@ -320,6 +320,7 @@ challengerz.world
 challengesgo.net
 challengeshub.pro
 challengeshub.world
+challengeszone.net
 challengeszone.pro
 challengeszone.world
 changely---exchange-hub.webflow.io
@@ -5107,6 +5108,7 @@ rustgear.net
 rustgrate.net
 rustgrind.net
 rustmill.net
+rustnova.net
 rustpale.com
 rustrise.net
 rustshard.net
@@ -5817,6 +5819,7 @@ trustwallut.com
 trust-web3.cn
 trx-explorer.me
 trx-explorer.org
+tryhardcup.pro
 trzorisuite.m-pages.com
 tuskslacx.ug
 twallet.cam
