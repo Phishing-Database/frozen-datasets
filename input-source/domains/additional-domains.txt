@@ -3264,6 +3264,7 @@ fozaronu.weebly.com
 fq703w52zt.pages.dev
 fragduels.com
 fragmasters.pro
+fragplayer.pro
 frame-6i5.pages.dev
 framecom.pages.dev
 framezap.pages.dev
@@ -5099,6 +5100,7 @@ rustbrute.com
 rustcrate.net
 rustcrux.com
 rustfound.net
+rustfoundry.net
 rustframe.net
 rustfuse.net
 rustgear.net
