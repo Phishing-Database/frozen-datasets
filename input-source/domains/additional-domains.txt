@@ -2826,6 +2826,7 @@ dofus-quest.shop
 dofus-retro-event.shop
 dofus-retro-maj.com
 dofustouch.fr
+dofus-touch-news.com
 dogalmedical.org
 dogecoin20-st.web.app
 doge-electrum.org
@@ -4534,6 +4535,7 @@ points-flyer.com
 points-flyer.net
 polkadotpla.net
 pooh-moneydapps.pages.dev
+popycha.fr
 portalpaxum.cokiwe2297.workers.dev
 portal-payhawk.com
 portal-platform.pages.dev
