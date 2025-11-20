@@ -2484,6 +2484,7 @@ confirm-snet.com
 connect-discord.com
 connect-faceit.com
 consommable-dofus.com
+consommables-dofus.com
 consultedigital.com
 consulter-mon-amende.com
 convex-l2.com
