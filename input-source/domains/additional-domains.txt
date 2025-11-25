@@ -3720,6 +3720,7 @@ info-trackingcor.cc
 info-trackingcov.cc
 infouhotel.com
 infovpli.top
+info-vr-team.de
 install-ledger.live
 intrinsicisle.za.com
 inv-gglegendscup.com
@@ -3774,6 +3775,7 @@ kams-alchouagi.com
 karimgouss.ug
 karrak.finance
 katara.eshopshub.com
+kawaski.ngrok.app
 ke1pdao.net
 ke1pdao.org
 keip-dao-v2.com
@@ -3826,6 +3828,7 @@ ledajesaler.weebly.com
 ledger-check-securitys.com
 ledger.com.es
 ledger.domains
+ledger-info-team.im
 ledger.limited
 ledger.www.com
 ledjer.app
@@ -6227,6 +6230,7 @@ vodapts.cc
 vonderlee.com
 votertopublic.cfd
 vpdamai.com
+vr-info.im
 vs.login.msa.akadns6.net
 vww-roblox.com
 vwww-ankama.com
