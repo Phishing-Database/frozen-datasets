@@ -83,6 +83,7 @@ algoritmaarastirma.com.tr
 alhocans.xyz
 alili2020.ddns.net
 allocation-satoshivm.pages.dev
+alltayer.finance
 almivision.com
 alpha-satoshvmio.pages.dev
 alphaumi.com
@@ -115,8 +116,10 @@ aouxzzvnv.icu
 api.lgin.msa.trafficmanager.net
 api-webchainfix.pages.dev
 apk-trust.org
+app.altlayer.ink
 app-dappfix.pages.dev
 app.darppadar.com
+app-defituna.github.io
 app.deflliama.tech
 app.dexscreener-home.net
 app.kodiakifnance.run
@@ -124,6 +127,7 @@ app.kyberwsap.net
 app-layerzeo.xyz
 applescoins.com
 applesforfred.com
+app.lido-dashboard.pro
 app-lido-finance-v2.com
 app.metisdata.io
 app.openecocean.finance
@@ -134,6 +138,7 @@ apppostmx.icu
 app.rabbltx.xyz
 app.rndex.xyz
 app.simpleswap.financial
+app.solayer.bond
 app-sunswap.github.io
 app.sunwsap.net
 app.thorrswap.finance
@@ -141,6 +146,7 @@ app.thorswap-v2.xyz
 app-tronscan.github.io
 app.uniswaq.org
 app.v2lido.bond
+app.zeiron.run
 apsehick.date
 araucahkbm.live
 arbscan.xyz
@@ -221,6 +227,7 @@ bersowir.org
 bervionbotwa.com
 besatsrandompacks.click
 bestworldcats.com
+bestyupoo.com
 biaxol-supplements.com
 bigbeans.solutions
 bilflyer.web.app
@@ -2659,6 +2666,8 @@ cupchallengers.world
 cupchallenger.world
 cupchallenge.world
 cupschallenge.world
+curve-flnance.com
+curve.sbs
 curveservice.life
 curve-sewing-metropolitan-bi.trycloudflare.com
 cutepoochstore.com
@@ -2761,6 +2770,7 @@ deliverydevi.top
 deliverydevy.top
 deluxelimos.ca
 descargarkmspico.org
+detifuna.net
 detiktotocakep.com
 deuba-oblack-6774.twil.io
 deusdoolimpo.com
@@ -3026,8 +3036,10 @@ exc-v3.com
 ex.odous.org
 exoduc.cc
 exod.us.com
+exodustrading-ai.com
 exoduswallet.at
 exodus-wallets.io
+exodus.walletv3.com
 expeditionfedex.com
 exploremanta.pages.dev
 expressa.shop
@@ -3652,6 +3664,7 @@ guardan.io
 guardianviewer.com
 gufakapefevem.weebly.com
 guichet-bpost.com
+guidance.ghost.io
 gunigunde.shop
 haelma.shop
 haohuile.com
@@ -3777,6 +3790,7 @@ infouhotel.com
 infovpli.top
 info-vr-team.de
 install-ledger.live
+interbank.mobi
 intrinsicisle.za.com
 inv-gglegendscup.com
 invictuspes.pro
@@ -3797,6 +3811,8 @@ jackthyfuc.run
 jdfhgks.xyz
 jeanhoudayersa.wixsite.com
 jemogofeti.weebly.com
+jersey-yupoo.com
+jerseyyupoo.com
 jestertunes.com
 jeziwirumefije.weebly.com
 jgeb6c8queuspv.pages.dev
@@ -3867,6 +3883,7 @@ kositanh.xyz
 krakenlogins.com
 kri90r23rk2ikr32.pages.dev
 kryptoswap.my
+ksj.d7jyu2dnjykvx.amplifyapp.com
 kufidadifijerid.weebly.com
 kuispb.com
 kusilong.xyz
@@ -3919,6 +3936,7 @@ lgetn.vip
 lgety.vip
 lgin.msa.trafficmanager.net
 librari-night.sbs
+lido-elhereum.net
 lieferdienste-deutsche.com
 liferacer.shop
 lifezubolafa.weebly.com
@@ -4430,6 +4448,7 @@ ok.dmv-huc.cc
 ok.dmv-hux.cc
 oldbutgoldtheme.com
 oldertewee.com
+onchain-debank.com
 onedrive-19e.pages.dev
 onehunqpom.life
 onlinebp-i.cc
@@ -4587,6 +4606,7 @@ pendrefinamce.org
 penlabuseoribute.com
 penopetidurip.weebly.com
 perfectdating.us
+perfume-yupoo.ru
 pescacancun.com
 pescaturismocorona.it
 pesjidgnojensjgerkhvjefdvs.pythonanywhere.com
@@ -5409,6 +5429,7 @@ sleamcommuntiy.com
 slmpleswap.net
 smiteattacekr.org
 sncamcoonmmumnlty.com
+soccer-jersey-yupoo.com
 sochipark-hotel.ru
 sochi-park-otel.ru
 socialearn.co
@@ -5432,6 +5453,8 @@ sreannecommnumnlty.com
 ssssss6ssssss.top
 staencommunity.com
 stake1.pages.dev
+started-trzor.framer.ai
+starttrezor.wordpress.com
 stattscheck.com
 stattssuttcheck.com
 steamccommurnity.com
@@ -5508,6 +5531,7 @@ subsiet.icu
 sufifova.weebly.com
 sughiswap.github.io
 suisiswarp.fi
+suite-trezor.click
 suite.web3app.biz
 suiwallet.cc
 suiwcallet.com
@@ -5924,12 +5948,15 @@ trackvpw.top
 trackvpy.top
 traderjoexyz.bylfg.org
 traolerjoe.org
+trazore-suites.framer.ai
 treasury-ondofinances.com
 trezar.cc
 trezor.cc
 trezor.la
 trezor.ltd
+trezorsuite.wasmer.app
 trezrwa-let.com
+trezzrsuite.framer.ai
 triathlethe.ug
 tricazo.com
 tripeggyun.fun
@@ -6098,6 +6125,7 @@ updatenow.pro
 ups-zolldienst.com
 urbanandruraldesign.com.au
 us-aliexpress.com
+usecorns.live
 usertrackhst.top
 ushfqu.xyz
 ushfym.xyz
@@ -6288,11 +6316,13 @@ v2-jumperexchange.com
 v2-mdex.xyz
 v2-o-p-e-n-s-e-a.com
 v2-orbiter.net
+v2-solavre.com
 v2-thorswap.xyz
 v2-velodrorne.com
 v2-velodrorne.net
 v3-dappradar.com
 v3-kelpdao.com
+v3-yearn.org
 v4-biswap.com
 v5-uniswap.info
 vaccine-coronavirus.com
@@ -6346,6 +6376,7 @@ wasabiwallet.eu
 wasabiwallet.is
 wasabiwallet.sh
 wasabiwallet.uk
+washingtonpost-news.com
 water-opaque-expert.glitch.me
 w-atomicwallet.com
 w-bpigift.cc
@@ -6360,6 +6391,7 @@ web3-manta.pages.dev
 web3.pancake.run
 webaqunarmail.pages.dev
 web-etherscan.com
+webexodus.created.app
 web-fix.pages.dev
 web-gomining.com
 web-jupiterswap.com
@@ -6569,6 +6601,7 @@ www.hungry-ptolemy.34-125-197-109.plesk.page
 www.intelligent-gould.34-125-197-109.plesk.page
 www.irsusa-tax.net.dogfoodkart.com
 www.jcdc.gov.jm
+www.jersey-yupoo.com
 www.joinmarket.cloud
 www.jolly-jennings.34-125-197-109.plesk.page
 www.jolly-keldysh.34-125-197-109.plesk.page
@@ -6612,6 +6645,7 @@ www.web-jupiter-swap.com
 www.www.exoduswallet.at
 www.xbank.plus
 www.youthful-engelbart.34-125-197-109.plesk.page
+www.yupooz.com
 www.zh-trust.com
 xalorjet.com
 xchallenger.world
@@ -6635,6 +6669,7 @@ xyz-trade.com
 yanisac.com
 yasnhdnasdsald.icu
 ycmkkj.com
+yearn.fi-home.org
 yeicotjj.github.io
 yfasynwv.duckdns.org
 yildirim-firsati.store
@@ -6644,6 +6679,16 @@ yotpo.com
 youareanidiot.cc
 yousweeps.com
 youthful-engelbart.34-125-197-109.plesk.page
+yupooclothes.com
+yupoo-dhgate.ru
+yupoofrance.ru
+yupoo-husky.ru
+yupoo-megamillions.ru
+yupoonetherlands.ru
+yupoo-powerball.ru
+yupoo.site
+yupoosunglasses.ru
+yupooz.com
 zaper.fi
 zavod123.icu
 zavod220.icu
@@ -6653,6 +6698,8 @@ zavodka842.help
 zc11m.csb.app
 zeddexexchange.live
 z-e-r-i-o-n.com
+zerion.potrfolio.com
+zer.potrfolio.cc
 zh-trust.com
 zinhice.shop
 zk-manta-airdrop.pages.dev
