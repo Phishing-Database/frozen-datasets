@@ -3253,6 +3253,8 @@ ff-exchange.shop
 ff-exchange.space
 ff-exchange.top
 ff-exchange.vip
+ff-excharge.cyou
+ff-excharge.icu
 ff-info-online.com
 ff-io.to
 fichiersclients.myphotos.cc
@@ -3680,6 +3682,7 @@ healthrxbd.com
 hellothere.shop
 helplive-ledger.com
 help-media.com
+helpwithledgerdevice.com
 hertrud.shop
 hexcrippler.shop
 hild.shop
@@ -3790,11 +3793,13 @@ infouhotel.com
 infovpli.top
 info-vr-team.de
 install-ledger.live
+insurebitbox.com
 interbank.mobi
 intrinsicisle.za.com
 inv-gglegendscup.com
 invictuspes.pro
 invite84191.com
+io-kly.com
 io-sol.org
 io-swap.net
 ipv4.login.msa.akadns6.net
@@ -3880,6 +3885,7 @@ korcapsot.ink
 koruns.xyz
 kosdlscbf.duckdns.org
 kositanh.xyz
+kraken-exchange.com
 krakenlogins.com
 kri90r23rk2ikr32.pages.dev
 kryptoswap.my
@@ -3914,6 +3920,7 @@ ledjer.cc
 ledlgcr.com
 legder.at
 legder.cc
+legderhealth.com
 legder-live.info
 legendcup.pro
 lejonajij.weebly.com
@@ -4401,6 +4408,7 @@ nico.sa
 nicoslag.ru
 nikonewakudofu.weebly.com
 nivirijimukavut.weebly.com
+nodego.network
 nodesappfix-io.pages.dev
 notifications-lucky-cake-eastcloud67.fresfst.workers.dev
 nowchange.cyou
@@ -4620,6 +4628,7 @@ phantom-s.at
 phanton.cc
 phatnomn.app
 phaztech.com
+phnto.com
 phntom.at
 phsw.site
 pish-lane.com
@@ -5271,6 +5280,7 @@ sanolaguna.com
 satoshi-364.pages.dev
 sawdex.com
 sbic.com.br
+scanledgerapi.com
 science-payments-comics-dom.trycloudflare.com
 sd-74h.pages.dev
 sdfsdfkasdlamld.icu
@@ -5952,6 +5962,8 @@ trazore-suites.framer.ai
 treasury-ondofinances.com
 trezar.cc
 trezor.cc
+trezordevices.io
+trezordevicesupport.com
 trezor.la
 trezor.ltd
 trezorsuite.wasmer.app
@@ -6679,13 +6691,16 @@ yotpo.com
 youareanidiot.cc
 yousweeps.com
 youthful-engelbart.34-125-197-109.plesk.page
+yupoo.biz
 yupooclothes.com
+yupooclothing.com
 yupoo-dhgate.ru
 yupoofrance.ru
 yupoo-husky.ru
 yupoo-megamillions.ru
 yupoonetherlands.ru
 yupoo-powerball.ru
+yupooshoes.org
 yupoo.site
 yupoosunglasses.ru
 yupooz.com
