@@ -123,6 +123,7 @@ app-defituna.github.io
 app.deflliama.tech
 app.dexscreener-home.net
 app.kodiakifnance.run
+app.kyberwsap.bond
 app.kyberwsap.net
 app-layerzeo.xyz
 applescoins.com
@@ -3036,6 +3037,7 @@ exc-v3.com
 ex.odous.org
 exoduc.cc
 exod.us.com
+exodusl.com
 exodustrading-ai.com
 exoduswallet.at
 exodus-wallets.io
@@ -3894,6 +3896,7 @@ kufidadifijerid.weebly.com
 kuispb.com
 kusilong.xyz
 kusjxka.xyz
+kyberswap-kyber-swap.com
 kyberswap-v2.xyz
 kyberwsap.net
 kyc-bltflyer.web.app
@@ -4408,6 +4411,7 @@ nico.sa
 nicoslag.ru
 nikonewakudofu.weebly.com
 nivirijimukavut.weebly.com
+nodegoai.com
 nodego.network
 nodesappfix-io.pages.dev
 notifications-lucky-cake-eastcloud67.fresfst.workers.dev
@@ -6108,7 +6112,10 @@ unisvap.cc
 unisvap.me
 unisvap.pro
 uniswap-app.to
+uniswap.org.in
+uniswap.org-service-prod-secure-cdn.ltd
 uni-swap-protocols.pages.dev
+uniswap.www.org
 unity-devblogs.info
 unity-event.info
 unity-events.info
@@ -6650,6 +6657,7 @@ www-thorchain.com
 www.tokenpocktp.com
 www.tronscan.la
 www.trusting-lumiere.34-125-197-109.plesk.page
+www.uniswap.org.in
 www.v2-biswap.pro
 www.v2-velodrorne.com
 www.v3-lido.com
