@@ -5,6 +5,7 @@
 16.16.4t.com
 1-67c.pages.dev
 1anddomailef.weebly.com
+1lnch.fi-v2.to
 2020logs.duckdns.org
 2-3a2.pages.dev
 24715454098-reviewpages.pages.dev
@@ -117,6 +118,7 @@ api.lgin.msa.trafficmanager.net
 api-webchainfix.pages.dev
 apk-trust.org
 app.altlayer.ink
+app.conigecko.live
 app-dappfix.pages.dev
 app.darppadar.com
 app-defituna.github.io
@@ -2975,6 +2977,7 @@ electrum-xrp.net
 electrun.is
 electrun.net
 elektrum.sbs
+elevon-payment.com
 elon2025.net
 eloquent-lumiere.34-125-197-109.plesk.page
 emasterseries.pro
@@ -3371,6 +3374,7 @@ fullcopec.zone
 fullcopers.com
 full.dkcng.com
 fupexojor.weebly.com
+fusebox-elavon.org
 fuwurukuzubefek.weebly.com
 fvfad.top
 g98765xfghjk654wrt.pages.dev
@@ -3458,6 +3462,7 @@ gosusnugi.ru
 gosusrugi.ru
 gosusslugi.net
 gosyslugi.su
+go-trust.co.com
 gov.buyreyakf.xyz
 gov.cusrdyahg.cfd
 gov.daytedamo.cfd
@@ -4633,6 +4638,7 @@ pgsgermany.com
 phanltonn.pro
 phantom-s.at
 phanton.cc
+phanton-wallet.fi-v2.to
 phatnomn.app
 phaztech.com
 phnto.com
@@ -5000,6 +5006,7 @@ qwerty12346.ru
 rabbitx.pro
 rabbltx.xyz
 rabby-faq.io
+rabby.fi-v2.to
 rabby.la
 rabby-vallet.github.io
 rab-bywallet.github.io
@@ -5430,6 +5437,7 @@ simpleswap-io.at
 simpleswap.ltd
 simpleswap.name
 simpleswap.online
+simpleswapp.com
 simple-swap.to
 simpleswap.to
 simplylovingproducts.com
@@ -5451,6 +5459,7 @@ sochipark-hotel.ru
 sochi-park-otel.ru
 socialearn.co
 soclaiemx.xyz
+soiflare.fi-v2.to
 soildly.pro
 soildly.xyz
 solvdapps.finance
@@ -5460,6 +5469,7 @@ sosvirus.net
 souq-deals.website
 southerninsurs.com
 spacexlaunch.pages.dev
+spanrowvvallef.digital
 speedexlojistik.com
 spellrutine.com
 spiffcoin.net
@@ -5548,6 +5558,7 @@ subsiet.icu
 sufifova.weebly.com
 sughiswap.github.io
 suisiswarp.fi
+suitee-trezorrsuite.com
 suite-trezor.click
 suite.web3app.biz
 suiwallet.cc
@@ -5604,6 +5615,7 @@ sunpashlxp.cfd
 sunpashlxv.cfd
 sunpashlxx.cfd
 sun-sun.org
+sunswap.nexus
 support-173.ubpages.com
 supportameli.top
 support-colis-info.com
@@ -5974,6 +5986,7 @@ trezordevices.io
 trezordevicesupport.com
 trezor.la
 trezor.ltd
+trezorsafety.com
 trezorsuite.wasmer.app
 trezrwa-let.com
 trezzrsuite.framer.ai
