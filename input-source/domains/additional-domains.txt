@@ -238,6 +238,7 @@ bilflyer.web.app
 bill-overdue.net
 biswap.app-2v.com
 biswap.org-earn.net
+bitboxinsurance.com
 bitcoin-core.app
 bitdeg.com
 bitfiye.net
@@ -3043,10 +3044,12 @@ ex.odous.org
 exoduc.cc
 exod.us.com
 exodusl.com
+exodus.net-sys.at
 exodustrading-ai.com
 exoduswallet.at
 exodus-wallets.io
 exodus.walletv3.com
+exoduwallet.io
 expeditionfedex.com
 exploremanta.pages.dev
 expressa.shop
@@ -3263,6 +3266,8 @@ ff-exchange.vip
 ff-excharge.cyou
 ff-excharge.icu
 ff-info-online.com
+ff-io.at
+ff-io.cc
 ff-io.to
 fichiersclients.myphotos.cc
 fidelity-register.top
@@ -3280,6 +3285,7 @@ fixedfloat.at
 fixedfloat.biz
 fixedfloat.ca
 fixed-float.to
+fixfloat.vip
 fjwamneg.top
 flaexpr.cc
 flamboyant-curran.52-148-188-66.plesk.page
@@ -5295,6 +5301,7 @@ satoshi-364.pages.dev
 sawdex.com
 sbic.com.br
 scanledgerapi.com
+scanledgerwallet.com
 science-payments-comics-dom.trycloudflare.com
 sd-74h.pages.dev
 sdfsdfkasdlamld.icu
@@ -5423,6 +5430,7 @@ sieamcoonnmumnlty.com
 sifeaturlyin.top
 silly-driscoll.13-93-165-215.plesk.page
 simit-pagos.co
+simlpeswap.easy-exchange.pro
 simpieswap.at
 simplesvvap.lol
 simplesvvvap.cyou
@@ -5431,6 +5439,7 @@ simpleswap-app.to
 simpleswap.at
 simpleswap.casa
 simpleswap.cyou
+simple-swap.dev
 simpleswap-exchange.com
 simpleswap.fi
 simpleswap-io.at
@@ -5989,6 +5998,7 @@ trezor.la
 trezor.ltd
 trezorsafety.com
 trezorsuite.wasmer.app
+trezorwalletsupport.com
 trezrwa-let.com
 trezzrsuite.framer.ai
 triathlethe.ug
@@ -6364,6 +6374,7 @@ v2-velodrorne.com
 v2-velodrorne.net
 v3-dappradar.com
 v3-kelpdao.com
+v3simpleswap.com
 v3-yearn.org
 v4-biswap.com
 v5-uniswap.info
