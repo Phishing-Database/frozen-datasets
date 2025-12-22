@@ -3448,6 +3448,7 @@ frame-6i5.pages.dev
 framecom.pages.dev
 framezap.pages.dev
 frax.to
+fr-dofus.com
 freshloader.eu.pythonanywhere.com
 frugihb5rfvnjced0e9uhbfndxws.weebly.com
 fsankmas.it.com
@@ -5434,6 +5435,7 @@ rustfuse.net
 rustgear.net
 rustgrate.net
 rustgrind.net
+rusthorizon.net
 rustmill.net
 rustnova.net
 rustpale.com
