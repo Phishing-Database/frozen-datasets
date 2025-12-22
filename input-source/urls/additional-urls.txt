@@ -4964,6 +4964,7 @@ https://rustbrute.com/
 https://rustcontain.com/
 https://rustcrate.net/
 https://rustcrux.com/
+https://rustdelta.com/
 https://rustecho.net/
 https://rustfound.net/
 https://rustfoundry.net/
@@ -8527,3 +8528,4 @@ http://ykgmqooyusggyyya.xyz:443/api/client/new
 http://ykgmqooyusggyyya.xyz:443/avast_update
 http://ykgmqooyusggyyya.xyz:443/tasks/collect 
 http://ykgmqooyusggyyya.xyz:443/tasks/get_worker 
+
