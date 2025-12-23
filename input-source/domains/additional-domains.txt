@@ -303,6 +303,7 @@ bosslogin.top
 bourse-dofus.com
 bourses-dofus.com
 boutique-dofus.com
+boutique-dofus.fr
 bowigarp.xyz
 bpiapply.cc
 bpi-mlz.cc
