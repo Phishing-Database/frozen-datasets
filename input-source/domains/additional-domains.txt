@@ -3781,6 +3781,7 @@ harambe-claim.pages.dev
 hardforkbase.com
 hasdjputa.site
 havenhills.za.com
+hazard.team
 hcpay.cc
 hdhtamc.com
 healthrxbd.com
@@ -6797,6 +6798,7 @@ workshopmodfiles.com
 workshopmodrate.com
 workshopmodsclient.com
 workshopmodscreating.com
+workshopmodsrating.com
 workshopmodsreview.com
 workshopmodsreviews.com
 workshopmodsubmits.com
