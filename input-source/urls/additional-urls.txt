@@ -3255,6 +3255,7 @@ https://faceit.lobby-51804.pro/invite
 https://faceit.lobbyjoin.pro/lobby
 https://faceit.log-legendscup.com/
 https://faceit.oauth23.com/
+https://faceit.org-vertex-clubgg.com/
 https://faceit.razeflair.com/
 https://faceit.teams-gglegendscup.com/
 https://faceit.teams-legendscup.com/
@@ -4232,6 +4233,7 @@ https://login.workshopcreatorsvote.com/openid/login/openidmodecheckid_setup_http
 https://login.workshopcreatorsvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://login.workshopcreatorsvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://login.workshopcustomvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
+https://login.workshopdevcontent.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopdevpatern.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopitemsvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodcharts.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
@@ -4778,6 +4780,7 @@ https://openvotes.pro/8ba6d
 https://opportunities-exodus-cdn.teachable.com/p/home
 https://orca-finance.org
 https://orca-finance.org/
+https://org-vertex-clubgg.com/
 https://or-tal-exo--dus-web.teachable.com/p/home
 https://or-tal-exodus-web.teachable.com/p/home
 https://osapol.net/A4pavic/
@@ -5340,6 +5343,7 @@ https://store.workshopcreatorsvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcreatorsvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopcustomvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcustomvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
+https://store.workshopdevcontent.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopdevpatern.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopdevpatern.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopitempowered.com/sharedfiles/filedetails/?id=3437558412
@@ -6785,6 +6789,7 @@ https://www.faceit.inv-gglegendscup.com/
 https://www.faceit.join-legends-cup.com/
 https://www.faceit.join-legendscup.com/
 https://www.faceit.log-legendscup.com/
+https://www.faceit.org-vertex-clubgg.com/
 https://www.faceit.teams-gglegendscup.com/
 https://www.faceit.teams-legendscup.com/
 https://www.faceit.teams-vertexclub.com/
@@ -6874,6 +6879,7 @@ https://www.modeschallenge.world/
 https://www.new.raze-x-leaggue.com/
 https://www.news-dofus.com/fr/mmorpg/event/cadeaux/parchemin/succes.php
 https://www.officialkmspico.com
+https://www.org-vertex-clubgg.com/
 https://www-payhawk.top
 https://www-payhawk.top/
 https://www-payhowk.top
