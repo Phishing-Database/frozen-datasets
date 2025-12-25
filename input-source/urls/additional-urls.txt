@@ -3003,6 +3003,7 @@ https://en-legendscup.com/
 https://en-metamask-cdn.teachable.com/p/home
 https://en--start-ledge-cdn.teachable.com/p/home
 https://en-start-m-ledger.teachable.com/p/us
+https://enterface.faceitauditv2.com/b06ec
 https://enter.rustecho.net/fa3f8
 https://en-treezor.github.io/en-us/
 https://en-treezor.teachable.com/p/home
@@ -3233,6 +3234,7 @@ https://facebooksecure.social-networking.me/
 https://faceit.2v2lobby.pro/inv
 https://faceit-accountverify.com/
 https://faceit-accountverify.com/game/?game=leagues5v5&skill_level=all&game_type_2=5vs5&source=faceit
+https://faceitauditv2.com/Skin'Club.Voting
 https://faceit-authclub.com/
 https://faceit-authclub.com/game/?game=leagues5v5&skill_level=all&game_type_2=5vs5&source=faceit
 https://faceit.auth-connectdiscord.com/
@@ -5400,7 +5402,6 @@ https://store.workshopvotereview.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopvotesaward.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://store.workshopvotesaward.com/sharedfiles/filesdetails/bounty_hunters_brim/
 https://store.workshopvotesharing.com/sharedfiles/filesdetails/mac-10_poison_revenge/
-https://store.workshopvotesharing.com/sharedfiles/filesdetails/mac_10_poison_revenge/
 https://store.workshopvoteweb.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopvoteweb.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store-www-dofus.com/noticias/actualidad/
