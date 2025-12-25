@@ -366,6 +366,7 @@ challengegg.world
 challengehub.world
 challengemode.pro
 challengemodes.pro
+challengereasy.pro
 challengerez.world
 challengerflex.com
 challengergg.pro
@@ -3018,6 +3019,7 @@ echallengem.net
 echallenger.net
 echallengersez.pro
 echallengerz.net
+echallengez.net
 ecovida.ru
 editions-dofus.com
 educatingourworld.com
