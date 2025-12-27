@@ -4253,6 +4253,7 @@ https://login.workshopmodfiles.com/sharedfiles/filesdetails/mac-10_poison_reveng
 https://login.workshopmodrate.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodsclient.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodscreating.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
+https://login.workshopmodscreators.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodsrating.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodsreview.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodsreview.com/sharedfiles/filesdetails/aug_poseidon/
@@ -5369,6 +5370,7 @@ https://store.workshopmodrate.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopmodrate.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopmodsclient.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopmodscreating.com/sharedfiles/filesdetails/aug_poseidon/
+https://store.workshopmodscreators.com/sharedfiles/filesdetails/mac_10_poison_revenge/
 https://store.workshopmodsrating.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopmodsreview.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://store.workshopmodsreview.com/sharedfiles/filesdetails/aug_poseidon/
