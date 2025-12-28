@@ -2715,12 +2715,14 @@ cryptomixer.guru
 crypto-wave.net
 crypto-wave.store
 crypto-wave.top
+cs2beneluxbattle.com
 cs2challenge.com
 cs.2cyberplay.com
 cs2legion.com
 cs2mastercup.com
 csesportscup.com
 csesportsmasters.pro
+cs-finals.com
 csmastercup.com
 csmasterscup.com
 csmastersleague.com
@@ -3068,6 +3070,7 @@ enlist-altlayer.pages.dev
 entelhcl.top
 en-trezor.io
 en-trust.co.com
+en-vertex-clubgg.com
 en-vertexclubgg.com
 enzanc.net
 epicclash.pro
@@ -5717,6 +5720,7 @@ steamcommrnunity.com
 steamcommumitry.com
 steamcommumtiy.com
 steamcommunitc.com
+s.teamcommunity-account.com
 steamcommunity.com.es
 steamcommunity.link
 steamcommunity-trade.xyz
@@ -5737,6 +5741,9 @@ steamcomnnulty.com
 steamcomrninuty.link
 steamcomrnunity.com
 steamcomrnunity.ru
+s.teamcomunity-access.com
+s.teamcomunity-account.com
+s.teamcomunity-approve.com
 steamconmminytiu.com
 steamconmminytiu.ru
 steamconmmutiny.com
@@ -5885,6 +5892,10 @@ tclael.ink
 tcngcm.com
 tcnkecper.com
 t.co
+teamcommunity-account.com
+teamcomunity-access.com
+teamcomunity-account.com
+teamcomunity-approve.com
 team-qpz.com
 teams-a.com
 teams-gglegendscup.com
