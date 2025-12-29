@@ -4108,6 +4108,8 @@ lobbyjoin.pro
 localcoronavirus.com
 logatera.net
 logatera.work
+login.workshopratedmods.com
+login.workshopratemods.com
 log-legendscup.com
 lognatera.com
 logonatera.it.com
@@ -5777,6 +5779,8 @@ stopcoronavirus.us.org
 store.communitygameteam.com
 store-steampowereb.com
 store-steampowereb.ru
+store.workshopratedmods.com
+store.workshopratemods.com
 store-www-dofus.com
 streancomunnitiy.com
 streancomunnitiy.ru
@@ -6797,6 +6801,7 @@ workartpoweredspace.com
 workmyweb.ro
 workpoweredshopitem.com
 workshopartcreator.com
+workshopartisthub.com
 workshopartskinpowered.com
 workshop-arts.pro
 workshopartstudio.com
@@ -6804,6 +6809,7 @@ workshopauthor.com
 workshopawardsvoted.com
 workshopawardvote.com
 workshopawardvotes.com
+workshopcomingskin.com
 workshopcreatedmods.com
 workshopcreatormod.com
 workshopcreatorpage.com
@@ -6833,6 +6839,8 @@ workshopoweredskins.com
 workshopoweredstore.com
 workshoppoweredskin.com
 workshoprated.com
+workshopratedmods.com
+workshopratemods.com
 workshopsharedmods.com
 workshopskindesign.com
 workshopskinshowcase.com
