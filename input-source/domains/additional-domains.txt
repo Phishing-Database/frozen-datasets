@@ -2721,6 +2721,7 @@ cs2challenge.com
 cs.2cyberplay.com
 cs2legion.com
 cs2mastercup.com
+cs-booms.shop
 csesportscup.com
 csesportsmasters.pro
 cs-finals.com
@@ -2866,7 +2867,6 @@ diezestrellas.com
 dinersclub.qrzips.com
 directmessageviolation.com
 disceord.gift
-discordconnects.com
 discordconnects.com  
 discord-fake-nitro-expiriment.glitch.me
 discord.lossantossanto1.repl.co
@@ -4109,8 +4109,11 @@ lobbyjoin.pro
 localcoronavirus.com
 logatera.net
 logatera.work
+login.workshopcomingmod.com
 login.workshopratedmods.com
+login.workshopratemod.com
 login.workshopratemods.com
+login.workshopusersvotes.com
 log-legendscup.com
 lognatera.com
 logonatera.it.com
@@ -5781,8 +5784,11 @@ stopcoronavirus.us.org
 store.communitygameteam.com
 store-steampowereb.com
 store-steampowereb.ru
+store.workshopcomingmod.com
 store.workshopratedmods.com
+store.workshopratemod.com
 store.workshopratemods.com
+store.workshopusersvotes.com
 store-www-dofus.com
 streancomunnitiy.com
 streancomunnitiy.ru
@@ -6811,6 +6817,7 @@ workshopauthor.com
 workshopawardsvoted.com
 workshopawardvote.com
 workshopawardvotes.com
+workshopcomingmod.com
 workshopcomingskin.com
 workshopcreatedmods.com
 workshopcreatormod.com
@@ -6818,6 +6825,7 @@ workshopcreatorpage.com
 workshopcreatorshub.com
 workshopcreatorslab.com
 workshopcreatorsvote.com
+workshopcreatorworks.com
 workshopcustomvote.com
 workshopdevcontent.com
 workshopdevpatern.com
@@ -6842,6 +6850,7 @@ workshopoweredstore.com
 workshoppoweredskin.com
 workshoprated.com
 workshopratedmods.com
+workshopratemod.com
 workshopratemods.com
 workshopsharedmods.com
 workshopskindesign.com
@@ -6851,6 +6860,7 @@ workshopsmaker.com
 workshopstyle.com
 workshopsubscribe.com
 workshopusers.com
+workshopusersvotes.com
 workshopvoteaward.com
 workshopvotecharts.com
 workshopvotecreate.com

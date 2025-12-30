@@ -2768,6 +2768,7 @@ https://cs.2cyberscup.com/
 https://cs.2cyberszone.com/
 https://cs2legion.com/
 https://cs2mastercup.com/
+https://cs-booms.shop/
 https://csesportscup.com/
 https://csesportsmasters.pro/
 https://cs.esportsvotes.com/
@@ -4241,6 +4242,7 @@ https://login.workshopawardvote.com/openid/login/openidmodecheckid_setup_http3A2
 https://login.workshopawardvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://login.workshopawardvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://login.workshopawardvotes.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
+https://login.workshopcomingmod.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopcomingskin.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopcreatedmods.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopcreatorshub.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
@@ -4250,6 +4252,7 @@ https://login.workshopcreatorslab.com/sharedfiles/filesdetails/aug_poseidon/
 https://login.workshopcreatorsvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopcreatorsvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://login.workshopcreatorsvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
+https://login.workshopcreatorworks.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopcustomvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopdevcontent.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopdevpatern.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
@@ -5354,6 +5357,7 @@ https://store.workshopawardvote.com/openid/login/openidmodecheckid_setup_http3A2
 https://store.workshopawardvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopawardvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopawardvotes.com/sharedfiles/filesdetails/aug_poseidon/
+https://store.workshopcomingmod.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcomingskin.com/sharedfiles/filesdetails/aug_poseidons/
 https://store.workshopcreatedmods.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcreatedmods.com/sharedfiles/filesdetails/mac-10_poison_revenge/
@@ -5366,6 +5370,7 @@ https://store.workshopcreatorslab.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcreatorsvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://store.workshopcreatorsvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcreatorsvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
+https://store.workshopcreatorworks.com/sharedfiles/filesdetails/aug_poseidons/
 https://store.workshopcustomvote.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopcustomvote.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopdevcontent.com/sharedfiles/filesdetails/mac-10_poison_revenge/
