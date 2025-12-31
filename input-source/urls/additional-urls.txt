@@ -3025,6 +3025,7 @@ https://en_us_ledgercom_guide.teachable.com/p/home
 https://en_us_ledgercom_pro.teachable.com/p/home
 https://en-us-ledger-start.teachable.com/p/home
 https://en-us-ledger.teachable.com/p/home
+https://en-vertexclub.com/
 https://en-vertex-clubgg.com/
 https://en-vertexclubgg.com/
 https://enzanc.net/MaxGI/index2.html
@@ -3256,6 +3257,7 @@ https://faceit.cup23.com/cs2/championship/a04c74bb-60aa-437c-aad0-5f58bf717ed6/o
 https://faceit.discordconnects.com/
 https://faceit.discordseasonscs.com/
 https://faceit.en-legendscup.com/
+https://faceit.en-vertexclub.com/
 https://faceit.en-vertex-clubgg.com/
 https://faceit.en-vertexclubgg.com/
 https://faceit-events.com/?status=ok
@@ -4236,6 +4238,7 @@ https://loginm.rustmill.net/3ee6c
 https://login.rustfoundry.net/3dc48
 https://login.steamfaceit-auth.com/0fc0d
 https://login.workshopartisthub.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
+https://login.workshopartistlibrary.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopartstudio.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopawardsvoted.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopawardvote.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
@@ -4266,6 +4269,7 @@ https://login.workshopmodcreator.com/sharedfiles/filesdetails/mac-10_poison_reve
 https://login.workshopmodfiles.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodfiles.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://login.workshopmodrate.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
+https://login.workshopmodreview.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodsclient.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodscreating.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
 https://login.workshopmodscreators.com/openid/login/openidmodecheckid_setup_http3A2Fspecsopenid2Fauth2F20openid/nssreg=http3A2Fopenidnet3Fextensions1openi=optional/
@@ -5349,6 +5353,7 @@ https://store.workartpoweredspace.com/
 https://store.workpoweredshopitem.com/
 https://store.workshopartcreator.com//sharedfiles/filedetails/?id=3102189396
 https://store.workshopartisthub.com/sharedfiles/filesdetails/Famas_marble_mountain/
+https://store.workshopartistlibrary.com/sharedfiles/filesdetails/unknown_warriors/
 https://store.workshopartskinpowered.com/sharedfiles/filedetails/?id=3064682533/
 https://store.workshopartstudio.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopartstudio.com/sharedfiles/filesdetails/mac-10_poison_revenge/
@@ -5390,6 +5395,7 @@ https://store.workshopmodfiles.com/openid/login/openidmodecheckid_setup_http3A2F
 https://store.workshopmodfiles.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopmodrate.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopmodrate.com/sharedfiles/filesdetails/mac-10_poison_revenge/
+https://store.workshopmodreview.com/sharedfiles/filesdetails/bounty_hunter_brim/
 https://store.workshopmodsclient.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopmodscreating.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopmodscreators.com/sharedfiles/filesdetails/mac_10_poison_revenge/
@@ -6797,6 +6803,7 @@ https://www.echallenger.net/
 https://www.eggywall.cc/
 https://www.emasterseries.pro/
 https://www.en-legendscup.com/
+https://www.en-vertexclub.com/
 https://www.en-vertex-clubgg.com/
 https://www.en-vertexclubgg.com/
 https://www.eplmasters.com/
@@ -6819,6 +6826,7 @@ https://www.faceit.auth-vertexclub.com/
 https://www.faceit.cup23.com/cs2/championship/a04c74bb-60aa-437c-aad0-5f58bf717ed6/overview/
 https://www.faceit-discordseasonscs.ru/
 https://www.faceit.en-legendscup.com/
+https://www.faceit.en-vertexclub.com/
 https://www.faceit.en-vertex-clubgg.com/
 https://www.faceit.en-vertexclubgg.com/
 https://www.faceit.inv-gglegendscup.com/
