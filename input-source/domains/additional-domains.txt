@@ -4153,6 +4153,7 @@ mainnet-lineabuild.pages.dev
 mainnet-satoshivmio-1cp.pages.dev
 mainnet-satoshivmio.pages.dev
 majiceden.app
+major-boom.shop
 malayska.ug
 manage.master-fiber.com
 manta-1c8.pages.dev
@@ -6814,6 +6815,7 @@ workpoweredshopitem.com
 workshopartcreator.com
 workshopartisthub.com
 workshopartistlibrary.com
+workshopartistlocate.com
 workshopartskinpowered.com
 workshop-arts.pro
 workshopartstudio.com
@@ -6823,6 +6825,7 @@ workshopawardvote.com
 workshopawardvotes.com
 workshopcomingmod.com
 workshopcomingskin.com
+workshopcommunityworks.com
 workshopcreatedmods.com
 workshopcreatormod.com
 workshopcreatorpage.com
@@ -6866,6 +6869,7 @@ workshopstyle.com
 workshopsubscribe.com
 workshopusers.com
 workshopusersvotes.com
+workshopuservotes.com
 workshopvoteaward.com
 workshopvotecharts.com
 workshopvotecreate.com
