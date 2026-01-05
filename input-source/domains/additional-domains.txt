@@ -248,6 +248,7 @@ bdoonline.co
 beaming.cool
 beastlucyspin.click
 beastsrandompack.click
+bee-apps.s3.us-east-2.amazonaws.com
 befall-sm0ker.sbs
 begincellcdn.pages.dev
 beneluxtourcs2.com
@@ -4635,6 +4636,7 @@ officialkmspico.info
 official-ledger-app.live
 official-ledger.live
 official-ledgrlive.com
+ofkzeokbv.s3.eu-west-1.amazonaws.com
 ofx-app.co.com
 ofx.co.com
 ofx-login.top
@@ -5247,6 +5249,7 @@ recoverapp.live
 recover-signe.com
 recover-signer.com
 recover-verify.com
+recovery-ledger-seed.com
 recovery-ledgersupport.com
 recursing-perlman.45-156-26-247.plesk.page
 redelivery2d.shop
