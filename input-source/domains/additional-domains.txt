@@ -4163,6 +4163,7 @@ majiceden.app
 major-boom.shop
 malayska.ug
 manage.master-fiber.com
+manage.payments.elodie-hahn-osteopathe.fr
 manta-1c8.pages.dev
 mantanetwork-8tn.pages.dev
 manta-network.pages.dev
@@ -4788,6 +4789,7 @@ paymbnx.vip
 paymbny.vip
 paymbnz.vip
 paymentech.co.com
+payments.elodie-hahn-osteopathe.fr
 paymhba.vip
 paymhbb.vip
 paymhbc.vip
