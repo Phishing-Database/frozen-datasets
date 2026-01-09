@@ -440,6 +440,7 @@ claim-starknet.pages.dev
 clfpages2.pages.dev
 cloudns.to
 cloudslimit.com
+clubfaceitauth.com
 cnangelly.online
 coarrcs.cfd
 coarrcs.icu
