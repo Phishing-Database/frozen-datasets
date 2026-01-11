@@ -46,6 +46,8 @@ academicagent.net
 acadgas.ru
 accbing.com
 accept-altlayer.pages.dev
+access-authority-66e80f6.s3.us-east-1.amazonaws.com
+access-authority-9665f7a.s3.us-east-1.amazonaws.com
 account-dash.com
 accounts-mail.ru
 actionagainstcovid19.com
@@ -3842,6 +3844,7 @@ home-leger-desktop.framer.ai
 home-tzersuite.framer.ai
 hoster-test.ru
 hostzop.com
+hot51.pet
 hotelsochipark.ru
 hovafmd.ddns.net
 hpepretd.cc
@@ -4200,6 +4203,7 @@ masenajeronuzes.weebly.com
 master-fiber.com
 masterscs2series.com
 masterseries.pro
+matamaisk.com
 materialistic-chain-chicory.glitch.me
 maxethxyz.pages.dev
 mbnutsstore.com
@@ -6885,6 +6889,7 @@ workshopdevcontent.com
 workshopdevpatern.com
 workshop-dota.pro
 workshop-glock18.com
+workshop-glock.com
 workshopitempowered.com
 workshopitemsvote.com
 workshopmodcharts.com
