@@ -3081,6 +3081,7 @@ engsuites.ghost.io
 eng-treezorsute.framer.ai
 eng-vertex-club.com
 eng-vertexclub.com
+engvertexclub.com
 eng-vertex-clubgg.com
 en-ledger-install.com
 en-ledger.io

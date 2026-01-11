@@ -3061,6 +3061,7 @@ https://eng-trezrsuite-cdn.teachable.com/p/home
 https://eng-us-exodus-cdn.teachable.com/p/home
 https://eng-vertex-club.com/
 https://eng-vertexclub.com/
+https://engvertexclub.com/
 https://eng-vertex-clubgg.com/
 https://en-help-legr-live.teachable.com/p/home
 https://en-ledgercom-us-support.teachable.com/p/home
@@ -3327,6 +3328,7 @@ https://faceit.discordconnects.com/
 https://faceit.discordseasonscs.com/
 https://faceit.eng-vertex-club.com/
 https://faceit.eng-vertexclub.com/
+https://faceit.engvertexclub.com/
 https://faceit.eng-vertex-clubgg.com/
 https://faceit.en-legendscup.com/
 https://faceit.en-vertex-club.com/
@@ -6963,6 +6965,7 @@ https://www.eggywall.cc/
 https://www.emasterseries.pro/
 https://www.eng-vertex-club.com/
 https://www.eng-vertexclub.com/
+https://www.engvertexclub.com/
 https://www.en-legendscup.com/
 https://www.en-vertexclub.com/
 https://www.en-vertex-clubgg.com/
@@ -6988,6 +6991,7 @@ https://www.faceit.cup23.com/cs2/championship/a04c74bb-60aa-437c-aad0-5f58bf717e
 https://www.faceit-discordseasonscs.ru/
 https://www.faceit.eng-vertex-club.com/
 https://www.faceit.eng-vertexclub.com/
+https://www.faceit.engvertexclub.com/
 https://www.faceit.en-legendscup.com/
 https://www.faceit.en-vertexclub.com/
 https://www.faceit.en-vertex-clubgg.com/
