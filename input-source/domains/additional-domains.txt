@@ -1,3 +1,4 @@
+
 0ffice365-1drvve-oneauthmx1drive.glitch.me
 109.197.125.34.bc.googleusercontent.com
 123movies.faith
@@ -3095,6 +3096,7 @@ en-ledgr.org
 en-legendscup.com
 enlist-altlayer.pages.dev
 entelhcl.top
+entered.top
 en-trezor.io
 en-trust.co.com
 en-vertex-club.com
@@ -4300,6 +4302,8 @@ multichaindexauth.pages.dev
 multichainsolutionsfix.pages.dev
 munuteme.weebly.com
 musangking.com.my
+mvm-szamla-fizetes.com
+mvm-szamlafizetes.com
 mybaseswap.net
 my.bosslogin.top
 myetherwallet.ee
@@ -5524,6 +5528,7 @@ rustpayload.com
 rustprotocol.net
 rustrelay.net
 rustrise.net
+rustservice.com
 rustshard.net
 rustsnap.net
 ruststack.net
