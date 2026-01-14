@@ -200,6 +200,7 @@ auth-by-phototan.xyz
 authclubfaceit.com
 auth-connectdiscord.com
 authdiscordconnect.com
+authe.top
 auth-legends-cup.com
 authlogine8s0.top
 authlogine8s1.top
@@ -5516,6 +5517,7 @@ rustbrute.com
 rustcommand.com
 rustcomponent.com
 rustcontain.com
+rustcontroller.com
 rustcrate.net
 rustcrux.com
 rustdelta.com
