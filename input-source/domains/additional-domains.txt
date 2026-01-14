@@ -376,6 +376,7 @@ challengehubs.pro
 challengehub.world
 challengemode.pro
 challengemodes.pro
+challengem.pro
 challengereasy.pro
 challengerez.world
 challengerflex.com
@@ -2744,6 +2745,7 @@ cs2-final.net
 cs2legion.com
 cs2mastercup.com
 cs-booms.shop
+cschallenger.net
 csesportscup.com
 csesportsmasters.pro
 cs-finals.com
@@ -3015,6 +3017,7 @@ dpdpt-ptrsn.cfd
 dpdpt-ptrsr.cfd
 dpdpt-ptrsu.cfd
 dpd.sukezg.com
+dpln-guides.com
 dpln-quete.com
 dpln-quetes.com
 dpln-quetes.info
@@ -3096,6 +3099,7 @@ eng-vertex-club.com
 eng-vertexclub.com
 engvertexclub.com
 eng-vertex-clubgg.com
+engvertex-clubgg.com
 engvertexclubgg.com
 en-ledger-install.com
 en-ledger.io
@@ -3184,6 +3188,7 @@ expressa.shop
 extr7plm1.weebly.com
 eye-network.ru
 ezchallenger.net
+ezchallengerz.pro
 ezchallenges.net
 ezdribea.top
 ezdribei.top
@@ -3869,6 +3874,7 @@ hubchallenger.net
 hubchallenger.pro
 hubchallengers.world
 hubchallenger.world
+hubchallengerz.net
 hub-desktop-ladgr.framer.ai
 huberwills.com
 hubvera.ac.ug
@@ -6931,6 +6937,7 @@ workshopmodsubmits.com
 workshopmodviews.com
 workshopoweredskins.com
 workshopoweredstore.com
+workshop-pistol.com
 workshoppoweredskin.com
 workshoprated.com
 workshopratedmods.com
