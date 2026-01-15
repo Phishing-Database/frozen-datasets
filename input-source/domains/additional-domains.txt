@@ -6941,6 +6941,7 @@ workshopmodviews.com
 workshopoweredskins.com
 workshopoweredstore.com
 workshop-pistol.com
+workshop-pistols.com
 workshoppoweredskin.com
 workshoprated.com
 workshopratedmods.com
