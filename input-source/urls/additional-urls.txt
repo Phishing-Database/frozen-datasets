@@ -2321,6 +2321,7 @@ https://auths-exodus-en-sso.teachable.com/p/home
 https://auth-start-ledge-us-cdn.teachable.com/p/home
 https://auth.steamtwich.com/08231
 https://auth-vertexclub.com/
+https://auth-victoryhub.com/
 https://autohaus.com.sv/.well-known/zendsdsoskds03212943/DHL-SAZI-AUTO/DHL-SAZI-AUTO/DHL-SAZI-AUTO/dhl/?i=i&0
 https://availability-ledger-cdn.teachable.com/p/home
 https://available-ledger-cdn.teachable.com/p/home
@@ -3348,6 +3349,7 @@ https://faceit.auth-connectdiscord.com/
 https://faceit.authdiscordconnect.com/
 https://faceit.auth-legends-cup.com/
 https://faceit.auth-vertexclub.com/
+https://faceit.auth-victoryhub.com/
 https://face-it.co.com
 https://face-it.co.com/
 https://faceit.connect-discord.com/

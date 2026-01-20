@@ -208,6 +208,7 @@ authlogine8s2.top
 authlogine8s4.top
 authlogine8s5.top
 auth-vertexclub.com
+auth-victoryhub.com
 avast-antivirus.com
 avastos.fun
 avgs.fun
