@@ -52,6 +52,7 @@ access-authority-9665f7a.s3.us-east-1.amazonaws.com
 account-dash.com
 accounts-mail.ru
 actionagainstcovid19.com
+actualites-ankama.com
 actualites-dofus.com
 ad.exodus.build
 admin-ery.pages.dev
