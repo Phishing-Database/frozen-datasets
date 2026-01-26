@@ -209,6 +209,7 @@ authlogine8s2.top
 authlogine8s4.top
 authlogine8s5.top
 auth-vertexclub.com
+auth-victory-hub.com
 auth-victoryhub.com
 avast-antivirus.com
 avastos.fun
@@ -5872,6 +5873,7 @@ stecmcommunijty.com
 stermcomunniity.com
 stermcomunniity.ru
 stinglebom.cc
+stm-auth.com
 stoic-elion.34-125-197-109.plesk.page
 stopcoronavirus.us.org
 store.communitygameteam.com
