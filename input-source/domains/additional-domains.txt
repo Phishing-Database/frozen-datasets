@@ -202,6 +202,7 @@ authclubfaceit.com
 auth-connectdiscord.com
 authdiscordconnect.com
 authe.top
+authez.top
 auth-legends-cup.com
 authlogine8s0.top
 authlogine8s1.top
@@ -4022,6 +4023,7 @@ join-legends-cup.com
 join-legendscup.com
 joinmarket.cloud
 join-slash.co.com
+join-victory-hub.com
 jolly-keldysh.34-125-197-109.plesk.page
 jsaokun.com
 j-servebpi.cc
@@ -5564,6 +5566,7 @@ rustnova.net
 rustpale.com
 rustpayload.com
 rustprotocol.net
+rustqueue.com
 rustrelay.net
 rustrise.net
 rustservice.com
