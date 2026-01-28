@@ -6016,6 +6016,7 @@ teams-gglegendscup.com
 teams-legendscup.com
 teams-vertexclub.com
 teams-vertexclubgg.com
+teams-victoryhub.com
 teamzj.com
 technowide.com.tr
 telegolosa.com
