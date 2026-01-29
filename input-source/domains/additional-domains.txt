@@ -56,6 +56,7 @@ actualites-ankama.com
 actualites-dofus.com
 ad.exodus.build
 admin-ery.pages.dev
+administrator1phanel.shop
 adminka-monstersinc.us
 adobebeiownwkjngrjwkenfjkewnf.pythonanywhere.com
 adobe-jhhkwjrnfjadenfrskbgjlsnfgjdfn.pages.dev
@@ -6016,6 +6017,7 @@ teams-gglegendscup.com
 teams-legendscup.com
 teams-vertexclub.com
 teams-vertexclubgg.com
+teams-vexarena.com
 teams-victoryhub.com
 teamzj.com
 technowide.com.tr
