@@ -211,6 +211,7 @@ authlogine8s2.top
 authlogine8s4.top
 authlogine8s5.top
 auth-vertexclub.com
+auth-vex-arena.com
 auth-victory-hub.com
 auth-victoryhub.com
 authw.top
@@ -4703,6 +4704,7 @@ o90456b1.beget.tech
 oauth23.com
 obtain-manta.pages.dev
 obtainmanta.pages.dev
+oefq-jon.com
 officialactivate.com
 officialkmspico.com
 officialkmspico.info
@@ -5573,6 +5575,7 @@ rustpayload.com
 rustprotocol.net
 rustqueue.com
 rustrelay.net
+rustresolver.net
 rustrise.net
 rustscheduler.com
 rustservice.com
