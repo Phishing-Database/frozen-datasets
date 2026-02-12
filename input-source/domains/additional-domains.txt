@@ -132,6 +132,7 @@ aouxzzvnv.icu
 api.lgin.msa.trafficmanager.net
 api-webchainfix.pages.dev
 apk-trust.org
+app2fa.com
 app.altlayer.ink
 app-aol.com
 app-atomic.co.com
@@ -5651,6 +5652,7 @@ secure-paymentech.co.com
 securesign-rbcroyal.com
 security-firmware-update.sbs
 securoscans.com
+seedlinkservice.com
 sellskin.shop
 serene-shirley.13-93-165-215.plesk.page
 ser-tribune-require-bodies.trycloudflare.com
