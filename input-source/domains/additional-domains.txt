@@ -2997,6 +2997,7 @@ dofus-quest.shop
 dofus-retro-actualite.com
 dofus-retro-event.shop
 dofus-retro-maj.com
+dofus-touch-forum.com
 dofustouch.fr
 dofus-touch-news.com
 dofus-unity.eu
@@ -4831,6 +4832,7 @@ pancakswap.org
 pandoraprejeangw6.pages.dev
 paperhander.pages.dev
 paperhands-portfoliotracker-wallet.pages.dev
+pappycha.fr
 papycha-quetes.fr
 papychat.com
 papychat-event.shop
