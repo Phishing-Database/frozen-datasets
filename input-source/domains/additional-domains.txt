@@ -47,6 +47,7 @@ academicagent.net
 acadgas.ru
 accbing.com
 accept-altlayer.pages.dev
+accept-invite.pro
 access-authority-66e80f6.s3.us-east-1.amazonaws.com
 access-authority-9665f7a.s3.us-east-1.amazonaws.com
 account-dash.com
@@ -6848,6 +6849,7 @@ vs.login.msa.akadns6.net
 vuduaccount.net
 vww-roblox.com
 vwww-ankama.com
+waitttpanel.com
 wakfu-boutique.info
 wakfu-gift.shop
 wakfu-world.shop
