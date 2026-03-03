@@ -7217,6 +7217,7 @@ xgram.my
 xml.lgin.msa.trafficmanager.net
 xmr-mixer.to
 xn--ameli--niveau-sms-tob.com
+xn--dofus-ouch-1cc.com
 xn--dofuspouresnoobs-ryc.com
 xn--dofus-rero-3cc.com
 xn--espace-vitale--jours-sms-87b.com
@@ -7224,6 +7225,7 @@ xn--espace-vitale--niveau-sms-zbc.com
 xn--gmai-88b.com
 xn--ithub-qmc.com
 xn--ooe-8tbc2c.com
+xn--papyha-zua.fr
 xn--qhwpajmdr-95a1o93b.click.studioalmeimar.com
 xn--www-ofus-touch-j1b.com
 xpround.com
