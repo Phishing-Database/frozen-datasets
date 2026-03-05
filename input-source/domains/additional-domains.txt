@@ -482,6 +482,7 @@ claim-pork.pages.dev
 claim-starknet.pages.dev
 clfpages2.pages.dev
 cloudns.to
+cloud-protect-091.com
 cloudslimit.com
 clubfaceitauth.com
 cnangelly.online
@@ -4959,6 +4960,7 @@ phaztech.com
 phnto.com
 phntom.at
 phsw.site
+pickwinner.pro
 pish-lane.com
 pizda-vagina-ponos.online
 pizza-beckermems.com
@@ -5612,6 +5614,7 @@ rustpale.com
 rustpayload.com
 rustprotocol.net
 rustqueue.com
+rustqueue.net
 rustrelay.net
 rustresolver.net
 rustrise.net
@@ -6931,6 +6934,7 @@ wiiflix.autos
 wiiflix.beauty
 win-defender-sec-64csvxxvxxvxx0x665.pages.dev
 windowsactivator.org
+windoww.top
 wingman-legends.pro
 wins-game.com
 winteai-uk.qpon
