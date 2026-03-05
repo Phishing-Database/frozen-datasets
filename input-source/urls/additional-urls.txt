@@ -3449,6 +3449,7 @@ https://faceit.lobbyjoin.pro/lobby
 https://faceit.log-legendscup.com/
 https://faceit.oauth23.com/
 https://faceit.org-vertex-clubgg.com/
+https://faceit.party-invite.pro/
 https://faceit.razeflair.com/
 https://faceit.stm-auth.com/d230b
 https://faceit.teams-gglegendscup.com/
