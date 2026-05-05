@@ -6914,6 +6914,7 @@ viridisw.top
 visit-dymension.pages.dev
 visit-lineabuild.pages.dev
 vivantis.edeka24salede24.top
+vivantis.ejnl.shop
 vivantis.lykoly.lol
 vivantis.motozemcz.com
 vivantis.outsale.shop
