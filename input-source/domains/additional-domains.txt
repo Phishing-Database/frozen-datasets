@@ -383,6 +383,7 @@ c066b573.smrta.pages.dev
 c1b2f.top
 c3y3jw.webwave.dev
 cadeau-dofus.com
+cadeau-evenement.com
 calm-wave-01c7f9910.5.azurestaticapps.net
 camelot.exc-v3.com
 camelot.exc-v3.run
