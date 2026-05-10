@@ -3004,6 +3004,7 @@ dofus-mmorpg.fr
 dofus.online
 dofuspoulesnoobs.fr
 dofuspounlesnoobs.com
+dofuspourlenoob.com
 dofuspourlenoobs.com
 dofuspourlenoobs.fr
 dofuspourlesnoobs.eu 
@@ -3019,6 +3020,8 @@ dofusprourlesnoobs.com
 dofus-quest.blog
 dofus-quest.shop
 dofus-retro-actualite.com
+dofus-retro-com.com
+dofus-retro-devblog.com
 dofus-retro-event.shop
 dofus-retro-maj.com
 dofus-retro-saisonnier.com
