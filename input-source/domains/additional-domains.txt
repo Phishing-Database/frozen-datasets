@@ -252,6 +252,7 @@ auth-connectdiscord.com
 authdiscordconnect.com
 authe.top
 authez.top
+auth.johnnysa1.com
 auth-legends-cup.com
 authlogine8s0.top
 authlogine8s1.top
@@ -2924,6 +2925,7 @@ debank-us.com
 decentralizationserver.pages.dev
 decentralizedappauth.pages.dev
 decentrausdchartfil.pages.dev
+de.ffongge.com
 defi-encrypt.pages.dev
 defii-larna.net
 defillama.ltd
