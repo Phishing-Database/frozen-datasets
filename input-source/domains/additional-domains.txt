@@ -5046,6 +5046,7 @@ party-invite.pro
 parys.clarel.sbs
 parysczsale.shop
 parys.evas.buzz
+parys.fishing-akcio.shop
 parys.fishing-sk.shop
 parys.friscops.sbs
 pary.sksave.sbs
