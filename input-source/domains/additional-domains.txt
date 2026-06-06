@@ -5048,6 +5048,8 @@ party-invite.pro
 pary.fishing-sk.shop
 parys.clarel.sbs
 parysczsale.shop
+parys.cz-sale.top
+parys.cz-store.shop
 parys.evas.buzz
 parys.fishing-akcio.shop
 parys.fishing-sk.shop
@@ -7558,6 +7560,7 @@ yupoo.site
 yupoosunglasses.ru
 yupooz.com
 yuwm.top
+zalandoutlets.shop
 zaper.fi
 zavod123.icu
 zavod220.icu
