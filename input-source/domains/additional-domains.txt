@@ -5050,11 +5050,13 @@ parys.clarel.sbs
 parysczsale.shop
 parys.cz-sale.top
 parys.cz-store.shop
+parys.disfulu.shop
 parys.evas.buzz
 parys.fishing-akcio.shop
 parys.fishing-sk.shop
 parys.friscops.sbs
 pary.sksave.sbs
+parys.parfym.sbs
 parys.rybolov-sk.shop
 parys.shop
 pasn.top
