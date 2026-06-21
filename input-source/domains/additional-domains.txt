@@ -211,6 +211,7 @@ app-sunswap.github.io
 app.sunwsap.net
 app.thorrswap.finance
 app.thorswap-v2.xyz
+app.tornado.cash
 apptreezorsuite.github.io
 app-trendmicro.com
 app-tronscan.github.io
@@ -6428,6 +6429,7 @@ toolszt.top
 toolszw.top
 topheadshot.pro
 toptalentw.top
+tornado.cash
 toromadon.weebly.com
 tothedigital.shop
 touch-actu.com
