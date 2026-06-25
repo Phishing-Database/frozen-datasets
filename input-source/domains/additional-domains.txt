@@ -5067,6 +5067,7 @@ parys.fishing-sk.shop
 parys.friscops.sbs
 parys.hanqunjs.com
 pary.sksave.sbs
+parys.njymbz.com
 parys.parfym.sbs
 parys.rybolov-sk.shop
 parys.shop
