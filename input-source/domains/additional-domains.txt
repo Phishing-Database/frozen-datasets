@@ -73,6 +73,7 @@ acadgas.ru
 accbing.com
 accept-altlayer.pages.dev
 accept-invite.pro
+access-authority-2faa9bb814.s3.eu-north-1.amazonaws.com
 access-authority-66e80f6.s3.us-east-1.amazonaws.com
 access-authority-9665f7a.s3.us-east-1.amazonaws.com
 account-dash.com
@@ -7522,6 +7523,7 @@ www.tokenpocktp.com
 www.tronscan.la
 www.trusting-lumiere.34-125-197-109.plesk.page
 www.uniswap.org.in
+www.updatenow.click
 www.v2-biswap.pro
 www.v2-velodrorne.com
 www.v3-lido.com
