@@ -5086,6 +5086,7 @@ parys.cz-sale.top
 parys-cz.shop
 parys.cz-store.shop
 parys.disfulu.shop
+parys.dozpl.life
 parys.evas.buzz
 parys.fishing-akcio.shop
 parys.fishing-sk.shop
