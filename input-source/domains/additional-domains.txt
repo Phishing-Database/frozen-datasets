@@ -5085,6 +5085,7 @@ parysczsale.shop
 parys.cz-sale.top
 parys-cz.shop
 parys.cz-store.shop
+parys.dealsk.sbs
 parys.disfulu.shop
 parys.dozpl.life
 parys.evas.buzz
@@ -6126,6 +6127,7 @@ sportisimoonlinesk.com
 sportisimo.outlcsale.com
 sportisimooutletsonlinesk.com
 sportisimooutletssk.com
+sportisimooutletssk.shop
 sportisimos-cz.shop
 sportisimo.sfd-pl.shop
 sportisimoshop.com
