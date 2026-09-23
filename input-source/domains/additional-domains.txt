@@ -558,7 +558,10 @@ cheapcorona.com
 check-entropy-dashboard.com
 check-entropy-verification.com
 check.evoff.vu
+check-hardware.org
 check.igutv.vu
+check-products.org
+check-products.shop
 check-time.ru
 chicavora.com
 chickenroadofficial.pl
@@ -3288,6 +3291,8 @@ engvertex-clubgg.com
 engvertexclubgg.com
 eng-victory-hub.com
 eng-victoryhub.com
+en-ledger.app
+en-ledger.com
 en-ledger-install.com
 en-ledger.io
 en-ledgr.org
@@ -4416,6 +4421,10 @@ ledger-check-securitys.com
 ledger.com.ag
 ledger.com.es
 ledgercom.m-teach.com
+ledger-connections.com
+ledger-connect-live-app.pages.dev
+ledger-connect-live-login.pages.dev
+ledger-connect-live.pages.dev
 ledger.domains
 led-ger.gr.com
 ledger-info-team.im
@@ -7432,6 +7441,8 @@ v2-dexcsreener.net
 v2-dexscreener.cc
 v2-electrum.com
 v2-ether-fi.org
+v2-exodus.com
+v2-exodus.org
 v2-extrafi.xyz
 v2-jumperexchange.com
 v2-mdex.xyz
@@ -7808,6 +7819,7 @@ www.dssvv-dk.cfd
 www.dssvv-dk.icu
 www.dydxex.org
 ww-wellsfargo.pages.dev
+www.en-ledger.com
 www.exodusl.com
 www.exodusupdate.app
 www.exoduswallet.at
