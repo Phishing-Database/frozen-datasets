@@ -364,6 +364,7 @@ biaxol-supplements.com
 bifboxswiss.de
 bigbeans.solutions
 bigdaddy.uk.com
+big-ip-client.com
 bilflyer.web.app
 billionairespincasino.org
 bill-overdue.net
@@ -584,6 +585,7 @@ ciel-goshugi.com
 cinxn.top
 cioibn.cfd
 circuitoesportivosp.com.br
+cisco-secure-client.es
 cjimoc.icu
 claim-altlayer.pages.dev
 claima.pages.dev
@@ -3755,7 +3757,13 @@ fomawin.com
 fomunova.weebly.com
 foreverfarley.com
 forger.icu
+forticlient.ca
+forticlient-for-mac.com
 forticlient.gr
+forticlient.no
+forticlient-vpn.org
+fortigate-vpn.com 
+fortivpn.download
 forward-prod.teliskin.com
 fovokutiro.weebly.com
 fowq.top
@@ -5238,6 +5246,7 @@ nocpmmda.qpon
 nodegoai.com
 nodego.network
 nodesappfix-io.pages.dev
+nordlayer-vpn.com 
 notifications-lucky-cake-eastcloud67.fresfst.workers.dev
 nowchange.cyou
 npmjs.cam
@@ -5336,6 +5345,7 @@ opensea.ltd
 open-sea.market-ntf.com
 opensea.nft-web3.com
 openvotes.pro
+openvpn-connect.com
 opesjk.ug
 opsdjs.ug
 optimistic-wright.34-125-197-109.plesk.page
@@ -6479,6 +6489,7 @@ solana2mix.to
 solana-sol-qr-code-generator.com
 solmix.tech
 solvdapps.finance
+sonicwall-netextender.nl
 sontungmtpmaidinhnhe.pages.dev
 sonuforpeoplefoundation.org
 sosvirus.net
@@ -7341,6 +7352,7 @@ usdt-qr.to
 usecorns.live
 useraccount-connect-chainswap.cc
 username228.icu
+usertophone.com
 usertrackhst.top
 ushfqu.xyz
 ushfym.xyz
@@ -7620,6 +7632,7 @@ votertopublic.cfd
 voyytf.cyou
 vpdamai.com
 vpfa.top
+vpn-fortinet.com
 vqxza.ink
 vr-info.im
 vs.login.msa.akadns6.net
@@ -7645,6 +7658,8 @@ wasabiwallet.is
 wasabiwallet.sh
 wasabiwallet.uk
 washingtonpost-news.com
+watchguard-vpn.de 
+watchguard-vpn.net
 watchnowclick.com
 water-opaque-expert.glitch.me
 w-atomicwallet.com
@@ -7871,6 +7886,7 @@ www-bonkplus.top
 www.camerica.co.com
 www.challangegame.world
 www.charming-satoshi.34-125-197-109.plesk.page
+www.citrix-secure-access.org
 www-convergapay.top
 www-convergapoy.top
 www.coronavirus.app
@@ -7961,6 +7977,8 @@ www.moscow-post.su
 www.n26.ztu88.com
 www.nibe.eu
 www.nifty-mahavira.34-125-197-109.plesk.page
+www.nordlayer-vpn.com
+www.nordlayer-vpn.com 
 www.optimistic-wright.34-125-197-109.plesk.page
 www-papycha.fr
 www-payhawk.top
@@ -7983,6 +8001,7 @@ www.simpleswap.org
 www-slash.co.com
 www.solendedge.com
 www.solscanner.io
+www.sonicwall-netextender.nl
 www-spendesk.top
 www.spooky-swap.pro
 www.store.communitygameteam.com
@@ -8004,6 +8023,7 @@ www.v2-biswap.pro
 www.v2-velodrorne.com
 www.v3-lido.com
 wwwv-ankama.com
+www.watchguard-vpn.de 
 www.web-jupiter-swap.com
 www.www.exoduswallet.at
 www.xbank.plus
